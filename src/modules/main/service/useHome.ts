@@ -1,0 +1,30 @@
+import { useState } from 'react'
+import { useGetProductsQuery } from '../domain/store/api'
+import { useIntersectionObserver } from '@/shared/hooks/useIntersctionObserver'
+
+export const useHome = () => {
+  const [page, setPage] = useState(1)
+
+  const {
+    data: products = [],
+    isLoading,
+    isError,
+    isFetching,
+  } = useGetProductsQuery({ page, limit: 8 })
+
+  const loadMore = () => {
+    if (!isFetching) {
+      setPage((prev) => prev + 1)
+    }
+  }
+
+  const loadingTriggerRef = useIntersectionObserver(loadMore, [isFetching])
+
+  return {
+    products,
+    loadingTriggerRef,
+    isError,
+    isLoading,
+		isFetching
+  }
+}
