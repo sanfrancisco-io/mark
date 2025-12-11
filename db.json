@@ -1,3 +1,5188 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": 1,
+      "name": "Tasty Metal Towels",
+      "description": "The lavender Chips combines Indonesia aesthetics with Chlorine-based durability",
+      "price": 131.99,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/AkD8j39/300/200",
+      "stock": 880,
+      "rating": 4,
+      "deliveryDate": "2025-12-12T02:21:01.964Z"
+    },
+    {
+      "id": 2,
+      "name": "Unbranded Cotton Car",
+      "description": "Discover the squirrel-like agility of our Bacon, perfect for jittery users",
+      "price": 106.35,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/JURyLPUZ/300/200",
+      "stock": 642,
+      "rating": 4,
+      "deliveryDate": "2025-12-16T02:57:29.964Z"
+    },
+    {
+      "id": 3,
+      "name": "Intelligent Wooden Hat",
+      "description": "Our zesty-inspired Chips brings a taste of luxury to your aching lifestyle",
+      "price": 13.41,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/oD8nE/300/200",
+      "stock": 834,
+      "rating": 1,
+      "deliveryDate": "2025-12-16T11:09:37.964Z"
+    },
+    {
+      "id": 4,
+      "name": "Handcrafted Rubber Bike",
+      "description": "Savor the delicious essence in our Ball, designed for total culinary adventures",
+      "price": 60.15,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/XkacOVUJ/300/200",
+      "stock": 690,
+      "rating": 4,
+      "deliveryDate": "2025-12-12T17:09:50.964Z"
+    },
+    {
+      "id": 5,
+      "name": "Awesome Rubber Table",
+      "description": "Discover the second new Tuna with an exciting mix of Rubber ingredients",
+      "price": 163.25,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/R1ZaCy/300/200",
+      "stock": 31,
+      "rating": 3,
+      "deliveryDate": "2025-12-12T10:48:11.964Z"
+    },
+    {
+      "id": 6,
+      "name": "Oriental Wooden Hat",
+      "description": "The Seamless tertiary time-frame Pizza offers reliable performance and damp design",
+      "price": 171.59,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/DCjD9GE/300/200",
+      "stock": 580,
+      "rating": 2,
+      "deliveryDate": "2025-12-17T02:59:48.964Z"
+    },
+    {
+      "id": 7,
+      "name": "Fantastic Bronze Shoes",
+      "description": "New blue Tuna with ergonomic design for linear comfort",
+      "price": 138.65,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/3q6LoyWnA/300/200",
+      "stock": 978,
+      "rating": 5,
+      "deliveryDate": "2025-12-18T13:54:50.964Z"
+    },
+    {
+      "id": 8,
+      "name": "Electronic Bronze Mouse",
+      "description": "Stylish Chicken designed to make you stand out with severe looks",
+      "price": 194.75,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/xKDhZi3S/300/200",
+      "stock": 595,
+      "rating": 4,
+      "deliveryDate": "2025-12-15T11:39:44.964Z"
+    },
+    {
+      "id": 9,
+      "name": "Generic Aluminum Ball",
+      "description": "Discover the dependent new Hat with an exciting mix of Granite ingredients",
+      "price": 141.59,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/OSx27emw/300/200",
+      "stock": 17,
+      "rating": 2,
+      "deliveryDate": "2025-12-16T19:59:23.964Z"
+    },
+    {
+      "id": 10,
+      "name": "Refined Plastic Cheese",
+      "description": "Refined Cheese designed with Aluminum for square performance",
+      "price": 32.73,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/bEKwFarWOm/300/200",
+      "stock": 15,
+      "rating": 4,
+      "deliveryDate": "2025-12-13T16:35:31.964Z"
+    },
+    {
+      "id": 11,
+      "name": "Oriental Ceramic Salad",
+      "description": "New Gloves model with 67 GB RAM, 314 GB storage, and queasy features",
+      "price": 145.99,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/15hlpF/300/200",
+      "stock": 953,
+      "rating": 2,
+      "deliveryDate": "2025-12-17T20:50:23.964Z"
+    },
+    {
+      "id": 12,
+      "name": "Frozen Metal Hat",
+      "description": "Innovative Chair featuring vast technology and Granite construction",
+      "price": 76.82,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/NPPqf/300/200",
+      "stock": 400,
+      "rating": 3,
+      "deliveryDate": "2025-12-11T02:57:09.964Z"
+    },
+    {
+      "id": 13,
+      "name": "Refined Gold Bacon",
+      "description": "Experience the orchid brilliance of our Ball, perfect for serene environments",
+      "price": 130.19,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/1niYY/300/200",
+      "stock": 174,
+      "rating": 3,
+      "deliveryDate": "2025-12-17T10:06:07.964Z"
+    },
+    {
+      "id": 14,
+      "name": "Fresh Bronze Table",
+      "description": "Discover the fish-like agility of our Table, perfect for ethical users",
+      "price": 148.45,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/FqcqxA0T/300/200",
+      "stock": 355,
+      "rating": 1,
+      "deliveryDate": "2025-12-12T14:13:17.964Z"
+    },
+    {
+      "id": 15,
+      "name": "Handcrafted Wooden Tuna",
+      "description": "Stylish Table designed to make you stand out with damaged looks",
+      "price": 89.39,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/XeKgY/300/200",
+      "stock": 331,
+      "rating": 4,
+      "deliveryDate": "2025-12-14T06:24:07.964Z"
+    },
+    {
+      "id": 16,
+      "name": "Unbranded Aluminum Gloves",
+      "description": "Introducing the Bermuda-inspired Car, blending haunting style with local craftsmanship",
+      "price": 99.25,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/mYJ5j/300/200",
+      "stock": 52,
+      "rating": 2,
+      "deliveryDate": "2025-12-14T14:24:15.964Z"
+    },
+    {
+      "id": 17,
+      "name": "Small Silk Sausages",
+      "description": "Professional-grade Tuna perfect for zesty training and recreational use",
+      "price": 132.55,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/vwmTefoXN/300/200",
+      "stock": 874,
+      "rating": 1,
+      "deliveryDate": "2025-12-10T23:45:19.964Z"
+    },
+    {
+      "id": 18,
+      "name": "Small Marble Shoes",
+      "description": "Professional-grade Chair perfect for filthy training and recreational use",
+      "price": 196.25,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/MI40s0AQv/300/200",
+      "stock": 4,
+      "rating": 5,
+      "deliveryDate": "2025-12-11T21:58:20.964Z"
+    },
+    {
+      "id": 19,
+      "name": "Luxurious Bamboo Bacon",
+      "description": "Stylish Chicken designed to make you stand out with bouncy looks",
+      "price": 19.39,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/ExtHZol/300/200",
+      "stock": 114,
+      "rating": 4,
+      "deliveryDate": "2025-12-11T18:32:29.964Z"
+    },
+    {
+      "id": 20,
+      "name": "Soft Marble Gloves",
+      "description": "The sleek and defenseless Mouse comes with sky blue LED lighting for smart functionality",
+      "price": 63.5,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/yj34hdAu/300/200",
+      "stock": 425,
+      "rating": 3,
+      "deliveryDate": "2025-12-17T01:13:47.964Z"
+    },
+    {
+      "id": 21,
+      "name": "Electronic Marble Cheese",
+      "description": "New orchid Salad with ergonomic design for limited comfort",
+      "price": 67.05,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/LNhTfj/300/200",
+      "stock": 857,
+      "rating": 3,
+      "deliveryDate": "2025-12-16T22:30:51.964Z"
+    },
+    {
+      "id": 22,
+      "name": "Tasty Bamboo Fish",
+      "description": "New sky blue Computer with ergonomic design for needy comfort",
+      "price": 20.65,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/8GIAwdBI/300/200",
+      "stock": 720,
+      "rating": 2,
+      "deliveryDate": "2025-12-17T04:20:00.964Z"
+    },
+    {
+      "id": 23,
+      "name": "Gorgeous Silk Tuna",
+      "description": "Our butterfly-friendly Hat ensures regular comfort for your pets",
+      "price": 119.75,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/4lmBRX/300/200",
+      "stock": 587,
+      "rating": 3,
+      "deliveryDate": "2025-12-17T10:59:25.964Z"
+    },
+    {
+      "id": 24,
+      "name": "Handcrafted Aluminum Mouse",
+      "description": "New grey Cheese with ergonomic design for shocked comfort",
+      "price": 44.29,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/HUsS8eHK/300/200",
+      "stock": 882,
+      "rating": 1,
+      "deliveryDate": "2025-12-15T01:13:26.964Z"
+    },
+    {
+      "id": 25,
+      "name": "Fantastic Bronze Towels",
+      "description": "New magenta Cheese with ergonomic design for bulky comfort",
+      "price": 135.79,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/ynBFg/300/200",
+      "stock": 429,
+      "rating": 4,
+      "deliveryDate": "2025-12-16T00:12:15.964Z"
+    },
+    {
+      "id": 26,
+      "name": "Intelligent Marble Bacon",
+      "description": "Ankunding Inc's most advanced Tuna technology increases impressionable capabilities",
+      "price": 96.13,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/eUBj4vMzXD/300/200",
+      "stock": 561,
+      "rating": 5,
+      "deliveryDate": "2025-12-14T17:48:29.964Z"
+    },
+    {
+      "id": 27,
+      "name": "Rustic Granite Car",
+      "description": "The azure Hat combines Cote d'Ivoire aesthetics with Silver-based durability",
+      "price": 75.99,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/r31HpgLd/300/200",
+      "stock": 604,
+      "rating": 5,
+      "deliveryDate": "2025-12-11T11:42:29.964Z"
+    },
+    {
+      "id": 28,
+      "name": "Unbranded Plastic Ball",
+      "description": "Ergonomic Gloves made with Bronze for all-day athletic support",
+      "price": 41.49,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/Oi6E2ma/300/200",
+      "stock": 830,
+      "rating": 3,
+      "deliveryDate": "2025-12-16T01:51:52.964Z"
+    },
+    {
+      "id": 29,
+      "name": "Recycled Ceramic Car",
+      "description": "Discover the miserly new Pants with an exciting mix of Cotton ingredients",
+      "price": 191.3,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/NxEZUZ2fI/300/200",
+      "stock": 585,
+      "rating": 2,
+      "deliveryDate": "2025-12-16T06:06:58.964Z"
+    },
+    {
+      "id": 30,
+      "name": "Sleek Steel Shoes",
+      "description": "The plum Pizza combines Republic of Korea aesthetics with Magnesium-based durability",
+      "price": 121.75,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/0dhkIf/300/200",
+      "stock": 813,
+      "rating": 3,
+      "deliveryDate": "2025-12-13T01:31:10.964Z"
+    },
+    {
+      "id": 31,
+      "name": "Fresh Metal Bacon",
+      "description": "Professional-grade Fish perfect for moral training and recreational use",
+      "price": 97.45,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/yJm38/300/200",
+      "stock": 113,
+      "rating": 4,
+      "deliveryDate": "2025-12-15T05:06:35.964Z"
+    },
+    {
+      "id": 32,
+      "name": "Small Concrete Sausages",
+      "description": "Professional-grade Tuna perfect for blind training and recreational use",
+      "price": 192.75,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/4ZXFiBo/300/200",
+      "stock": 598,
+      "rating": 1,
+      "deliveryDate": "2025-12-12T21:03:08.964Z"
+    },
+    {
+      "id": 33,
+      "name": "Generic Silk Sausages",
+      "description": "Gutmann, Schimmel and Walker's most advanced Salad technology increases trim capabilities",
+      "price": 102.25,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/CGpDkHVke/300/200",
+      "stock": 586,
+      "rating": 4,
+      "deliveryDate": "2025-12-11T02:38:06.964Z"
+    },
+    {
+      "id": 34,
+      "name": "Oriental Silk Sausages",
+      "description": "The Configurable interactive process improvement Salad offers reliable performance and quarterly design",
+      "price": 36.65,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/MhRbGF/300/200",
+      "stock": 362,
+      "rating": 3,
+      "deliveryDate": "2025-12-18T00:18:50.964Z"
+    },
+    {
+      "id": 35,
+      "name": "Bespoke Concrete Towels",
+      "description": "New turquoise Table with ergonomic design for baggy comfort",
+      "price": 88.19,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/SxPuR/300/200",
+      "stock": 231,
+      "rating": 2,
+      "deliveryDate": "2025-12-12T00:10:05.964Z"
+    },
+    {
+      "id": 36,
+      "name": "Licensed Marble Keyboard",
+      "description": "The Emie Chips is the latest in a series of unfortunate products from Stroman - Lockman",
+      "price": 150.35,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/odf0v3/300/200",
+      "stock": 821,
+      "rating": 2,
+      "deliveryDate": "2025-12-10T23:40:16.964Z"
+    },
+    {
+      "id": 37,
+      "name": "Sleek Ceramic Bike",
+      "description": "Introducing the Uruguay-inspired Bike, blending squeaky style with local craftsmanship",
+      "price": 71.09,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/RBSYNMTH/300/200",
+      "stock": 783,
+      "rating": 1,
+      "deliveryDate": "2025-12-10T23:13:51.964Z"
+    },
+    {
+      "id": 38,
+      "name": "Small Bamboo Chicken",
+      "description": "Ergonomic Gloves made with Steel for all-day poor support",
+      "price": 125.29,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/X2aoH39/300/200",
+      "stock": 396,
+      "rating": 3,
+      "deliveryDate": "2025-12-14T17:30:15.964Z"
+    },
+    {
+      "id": 39,
+      "name": "Small Wooden Fish",
+      "description": "Our savory-inspired Bike brings a taste of luxury to your mammoth lifestyle",
+      "price": 99.25,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/zcn1cKHL4/300/200",
+      "stock": 883,
+      "rating": 5,
+      "deliveryDate": "2025-12-16T14:04:58.964Z"
+    },
+    {
+      "id": 40,
+      "name": "Luxurious Aluminum Shirt",
+      "description": "Featuring Aluminium-enhanced technology, our Computer offers unparalleled subtle performance",
+      "price": 140.69,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/6WiYHrJE/300/200",
+      "stock": 270,
+      "rating": 2,
+      "deliveryDate": "2025-12-12T23:55:12.964Z"
+    },
+    {
+      "id": 41,
+      "name": "Incredible Ceramic Table",
+      "description": "The cyan Shirt combines Spain aesthetics with Nihonium-based durability",
+      "price": 124.29,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/ChElEowB/300/200",
+      "stock": 177,
+      "rating": 5,
+      "deliveryDate": "2025-12-17T18:45:32.964Z"
+    },
+    {
+      "id": 42,
+      "name": "Electronic Plastic Gloves",
+      "description": "New Car model with 1 GB RAM, 9 GB storage, and considerate features",
+      "price": 138.19,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/czx1yI2V/300/200",
+      "stock": 137,
+      "rating": 1,
+      "deliveryDate": "2025-12-18T12:27:52.964Z"
+    },
+    {
+      "id": 43,
+      "name": "Ergonomic Plastic Tuna",
+      "description": "The sleek and elliptical Gloves comes with red LED lighting for smart functionality",
+      "price": 65.79,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/73oGZEg/300/200",
+      "stock": 832,
+      "rating": 5,
+      "deliveryDate": "2025-12-12T22:51:41.964Z"
+    },
+    {
+      "id": 44,
+      "name": "Recycled Silk Pizza",
+      "description": "Featuring Einsteinium-enhanced technology, our Pants offers unparalleled pushy performance",
+      "price": 51.7,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/ksz5rLE/300/200",
+      "stock": 845,
+      "rating": 5,
+      "deliveryDate": "2025-12-18T03:10:50.964Z"
+    },
+    {
+      "id": 45,
+      "name": "Handcrafted Bronze Computer",
+      "description": "The sleek and upset Chicken comes with blue LED lighting for smart functionality",
+      "price": 69.45,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/4w24V5oY/300/200",
+      "stock": 520,
+      "rating": 1,
+      "deliveryDate": "2025-12-11T21:41:38.964Z"
+    },
+    {
+      "id": 46,
+      "name": "Handcrafted Rubber Chair",
+      "description": "The Multi-tiered heuristic encoding Gloves offers reliable performance and arid design",
+      "price": 53.49,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/i0i5AgH87W/300/200",
+      "stock": 152,
+      "rating": 4,
+      "deliveryDate": "2025-12-13T03:32:05.964Z"
+    },
+    {
+      "id": 47,
+      "name": "Soft Aluminum Mouse",
+      "description": "The Integrated value-added policy Tuna offers reliable performance and strident design",
+      "price": 15.59,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/EsKQF/300/200",
+      "stock": 183,
+      "rating": 5,
+      "deliveryDate": "2025-12-12T01:36:36.964Z"
+    },
+    {
+      "id": 48,
+      "name": "Ergonomic Metal Keyboard",
+      "description": "Savor the sour essence in our Shoes, designed for puny culinary adventures",
+      "price": 25.85,
+      "currency": "RUB",
+      "imageUrl": "https://picsum.photos/seed/viDFVBynK/300/200",
+      "stock": 559,
+      "rating": 3,
+      "deliveryDate": "2025-12-18T07:51:42.964Z"
+    },
+    {
+      "id": 49,
+      "name": "Recycled Rubber Salad",
+      "description": "Innovative Chicken featuring hopeful technology and Aluminum construction",
+      "price": 42.19,
+      "currency": "KGS",
+      "imageUrl": "https://picsum.photos/seed/3iIfHWUQm/300/200",
+      "stock": 580,
+      "rating": 3,
+      "deliveryDate": "2025-12-16T22:01:23.964Z"
+    },
+    {
+      "id": 50,
+      "name": "Handcrafted Granite Shoes",
+      "description": "The sleek and criminal Salad comes with cyan LED lighting for smart functionality",
+      "price": 96.75,
+      "currency": "USD",
+      "imageUrl": "https://picsum.photos/seed/oh8l5dLd9q/300/200",
+      "stock": 900,
+      "rating": 4,
+      "deliveryDate": "2025-12-15T11:36:10.964Z"
+    }
+  ],
+  "specs": [
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Pollich and Sons"
+        },
+        {
+          "name": "Material",
+          "value": "Marble"
+        },
+        {
+          "name": "Color",
+          "value": "gold"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Saint Martin"
+        },
+        {
+          "name": "Weight",
+          "value": "4218 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Kuphal Inc"
+        },
+        {
+          "name": "Material",
+          "value": "Wooden"
+        },
+        {
+          "name": "Color",
+          "value": "grey"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Cameroon"
+        },
+        {
+          "name": "Weight",
+          "value": "4129 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Stoltenberg - Wisozk"
+        },
+        {
+          "name": "Material",
+          "value": "Rubber"
+        },
+        {
+          "name": "Color",
+          "value": "pink"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Iceland"
+        },
+        {
+          "name": "Weight",
+          "value": "3755 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Pouros - Ruecker"
+        },
+        {
+          "name": "Material",
+          "value": "Granite"
+        },
+        {
+          "name": "Color",
+          "value": "red"
+        },
+        {
+          "name": "Origin Country",
+          "value": "South Africa"
+        },
+        {
+          "name": "Weight",
+          "value": "1725 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Auer and Sons"
+        },
+        {
+          "name": "Material",
+          "value": "Rubber"
+        },
+        {
+          "name": "Color",
+          "value": "gold"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Suriname"
+        },
+        {
+          "name": "Weight",
+          "value": "3417 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Grady, Beahan and VonRueden"
+        },
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Color",
+          "value": "azure"
+        },
+        {
+          "name": "Origin Country",
+          "value": "India"
+        },
+        {
+          "name": "Weight",
+          "value": "4270 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Corkery, Nicolas and Rutherford"
+        },
+        {
+          "name": "Material",
+          "value": "Steel"
+        },
+        {
+          "name": "Color",
+          "value": "white"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Mali"
+        },
+        {
+          "name": "Weight",
+          "value": "1927 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Little LLC"
+        },
+        {
+          "name": "Material",
+          "value": "Aluminum"
+        },
+        {
+          "name": "Color",
+          "value": "magenta"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Cook Islands"
+        },
+        {
+          "name": "Weight",
+          "value": "291 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Kilback - Upton"
+        },
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Color",
+          "value": "orchid"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Trinidad and Tobago"
+        },
+        {
+          "name": "Weight",
+          "value": "1244 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Hahn, Rowe and Gibson"
+        },
+        {
+          "name": "Material",
+          "value": "Bamboo"
+        },
+        {
+          "name": "Color",
+          "value": "lime"
+        },
+        {
+          "name": "Origin Country",
+          "value": "North Macedonia"
+        },
+        {
+          "name": "Weight",
+          "value": "4984 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Waelchi and Sons"
+        },
+        {
+          "name": "Material",
+          "value": "Rubber"
+        },
+        {
+          "name": "Color",
+          "value": "mint green"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Falkland Islands (Malvinas)"
+        },
+        {
+          "name": "Weight",
+          "value": "2980 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Kutch - Schmeler"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Color",
+          "value": "teal"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Hong Kong"
+        },
+        {
+          "name": "Weight",
+          "value": "620 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Ruecker, Wyman and Abbott"
+        },
+        {
+          "name": "Material",
+          "value": "Aluminum"
+        },
+        {
+          "name": "Color",
+          "value": "lavender"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Latvia"
+        },
+        {
+          "name": "Weight",
+          "value": "4161 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Champlin Inc"
+        },
+        {
+          "name": "Material",
+          "value": "Bronze"
+        },
+        {
+          "name": "Color",
+          "value": "white"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Aland Islands"
+        },
+        {
+          "name": "Weight",
+          "value": "4780 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Haag and Sons"
+        },
+        {
+          "name": "Material",
+          "value": "Bronze"
+        },
+        {
+          "name": "Color",
+          "value": "black"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Trinidad and Tobago"
+        },
+        {
+          "name": "Weight",
+          "value": "2279 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Lindgren, Jaskolski and Fisher"
+        },
+        {
+          "name": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "name": "Color",
+          "value": "pink"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Honduras"
+        },
+        {
+          "name": "Weight",
+          "value": "996 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Carter Group"
+        },
+        {
+          "name": "Material",
+          "value": "Gold"
+        },
+        {
+          "name": "Color",
+          "value": "turquoise"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Jordan"
+        },
+        {
+          "name": "Weight",
+          "value": "1967 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Morar, Renner and Willms"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Color",
+          "value": "silver"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Cameroon"
+        },
+        {
+          "name": "Weight",
+          "value": "253 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Haley, Tillman and Stroman"
+        },
+        {
+          "name": "Material",
+          "value": "Bamboo"
+        },
+        {
+          "name": "Color",
+          "value": "mint green"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Mayotte"
+        },
+        {
+          "name": "Weight",
+          "value": "4785 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Dibbert, Purdy and Bauch"
+        },
+        {
+          "name": "Material",
+          "value": "Granite"
+        },
+        {
+          "name": "Color",
+          "value": "mint green"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Guernsey"
+        },
+        {
+          "name": "Weight",
+          "value": "4770 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Funk LLC"
+        },
+        {
+          "name": "Material",
+          "value": "Steel"
+        },
+        {
+          "name": "Color",
+          "value": "indigo"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Afghanistan"
+        },
+        {
+          "name": "Weight",
+          "value": "4556 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Buckridge Inc"
+        },
+        {
+          "name": "Material",
+          "value": "Marble"
+        },
+        {
+          "name": "Color",
+          "value": "purple"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Gambia"
+        },
+        {
+          "name": "Weight",
+          "value": "4987 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Pollich Group"
+        },
+        {
+          "name": "Material",
+          "value": "Wooden"
+        },
+        {
+          "name": "Color",
+          "value": "gold"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Bolivia"
+        },
+        {
+          "name": "Weight",
+          "value": "3939 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Heller - Denesik"
+        },
+        {
+          "name": "Material",
+          "value": "Concrete"
+        },
+        {
+          "name": "Color",
+          "value": "gold"
+        },
+        {
+          "name": "Origin Country",
+          "value": "South Sudan"
+        },
+        {
+          "name": "Weight",
+          "value": "1532 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Schulist - Hackett"
+        },
+        {
+          "name": "Material",
+          "value": "Marble"
+        },
+        {
+          "name": "Color",
+          "value": "orchid"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Marshall Islands"
+        },
+        {
+          "name": "Weight",
+          "value": "4952 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Kiehn - Anderson"
+        },
+        {
+          "name": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "name": "Color",
+          "value": "fuchsia"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Honduras"
+        },
+        {
+          "name": "Weight",
+          "value": "485 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Kihn LLC"
+        },
+        {
+          "name": "Material",
+          "value": "Bronze"
+        },
+        {
+          "name": "Color",
+          "value": "violet"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Monaco"
+        },
+        {
+          "name": "Weight",
+          "value": "3786 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Yundt, Lindgren and Fay"
+        },
+        {
+          "name": "Material",
+          "value": "Marble"
+        },
+        {
+          "name": "Color",
+          "value": "lavender"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Italy"
+        },
+        {
+          "name": "Weight",
+          "value": "4648 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Lesch Inc"
+        },
+        {
+          "name": "Material",
+          "value": "Silk"
+        },
+        {
+          "name": "Color",
+          "value": "cyan"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Bahrain"
+        },
+        {
+          "name": "Weight",
+          "value": "936 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Dach - Schoen"
+        },
+        {
+          "name": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "name": "Color",
+          "value": "tan"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Finland"
+        },
+        {
+          "name": "Weight",
+          "value": "3402 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Olson - Stracke"
+        },
+        {
+          "name": "Material",
+          "value": "Concrete"
+        },
+        {
+          "name": "Color",
+          "value": "black"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Timor-Leste"
+        },
+        {
+          "name": "Weight",
+          "value": "712 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Cronin, Paucek and Cremin"
+        },
+        {
+          "name": "Material",
+          "value": "Silk"
+        },
+        {
+          "name": "Color",
+          "value": "black"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Curacao"
+        },
+        {
+          "name": "Weight",
+          "value": "4270 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Bashirian - Sanford"
+        },
+        {
+          "name": "Material",
+          "value": "Granite"
+        },
+        {
+          "name": "Color",
+          "value": "fuchsia"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Lao People's Democratic Republic"
+        },
+        {
+          "name": "Weight",
+          "value": "4105 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Hirthe, Bayer and Brakus"
+        },
+        {
+          "name": "Material",
+          "value": "Gold"
+        },
+        {
+          "name": "Color",
+          "value": "magenta"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Vietnam"
+        },
+        {
+          "name": "Weight",
+          "value": "668 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Kerluke and Sons"
+        },
+        {
+          "name": "Material",
+          "value": "Aluminum"
+        },
+        {
+          "name": "Color",
+          "value": "plum"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Greenland"
+        },
+        {
+          "name": "Weight",
+          "value": "2181 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Pacocha, Trantow and Gleason"
+        },
+        {
+          "name": "Material",
+          "value": "Gold"
+        },
+        {
+          "name": "Color",
+          "value": "black"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Jordan"
+        },
+        {
+          "name": "Weight",
+          "value": "4277 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Schimmel - Metz"
+        },
+        {
+          "name": "Material",
+          "value": "Concrete"
+        },
+        {
+          "name": "Color",
+          "value": "tan"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Antigua and Barbuda"
+        },
+        {
+          "name": "Weight",
+          "value": "155 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2023"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Balistreri, Fahey and Lynch"
+        },
+        {
+          "name": "Material",
+          "value": "Marble"
+        },
+        {
+          "name": "Color",
+          "value": "orchid"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Tokelau"
+        },
+        {
+          "name": "Weight",
+          "value": "2477 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "4 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Swift, Boyle and Langosh"
+        },
+        {
+          "name": "Material",
+          "value": "Silk"
+        },
+        {
+          "name": "Color",
+          "value": "green"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Kiribati"
+        },
+        {
+          "name": "Weight",
+          "value": "3954 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Abshire LLC"
+        },
+        {
+          "name": "Material",
+          "value": "Granite"
+        },
+        {
+          "name": "Color",
+          "value": "plum"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Nicaragua"
+        },
+        {
+          "name": "Weight",
+          "value": "120 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Smith, Crist and Lueilwitz"
+        },
+        {
+          "name": "Material",
+          "value": "Gold"
+        },
+        {
+          "name": "Color",
+          "value": "blue"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Svalbard & Jan Mayen Islands"
+        },
+        {
+          "name": "Weight",
+          "value": "2649 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "1 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Green - Jenkins"
+        },
+        {
+          "name": "Material",
+          "value": "Bamboo"
+        },
+        {
+          "name": "Color",
+          "value": "blue"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Suriname"
+        },
+        {
+          "name": "Weight",
+          "value": "4152 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Ondricka, Connelly and Durgan"
+        },
+        {
+          "name": "Material",
+          "value": "Concrete"
+        },
+        {
+          "name": "Color",
+          "value": "pink"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Belgium"
+        },
+        {
+          "name": "Weight",
+          "value": "2949 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Strosin - McDermott"
+        },
+        {
+          "name": "Material",
+          "value": "Metal"
+        },
+        {
+          "name": "Color",
+          "value": "lavender"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Sierra Leone"
+        },
+        {
+          "name": "Weight",
+          "value": "750 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2021"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Willms, Quigley and Schmitt"
+        },
+        {
+          "name": "Material",
+          "value": "Marble"
+        },
+        {
+          "name": "Color",
+          "value": "orchid"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Brazil"
+        },
+        {
+          "name": "Weight",
+          "value": "2574 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Kshlerin Inc"
+        },
+        {
+          "name": "Material",
+          "value": "Metal"
+        },
+        {
+          "name": "Color",
+          "value": "pink"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Democratic People's Republic of Korea"
+        },
+        {
+          "name": "Weight",
+          "value": "2830 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "O'Reilly Group"
+        },
+        {
+          "name": "Material",
+          "value": "Granite"
+        },
+        {
+          "name": "Color",
+          "value": "yellow"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Palestine"
+        },
+        {
+          "name": "Weight",
+          "value": "1324 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Romaguera, Davis and Brakus"
+        },
+        {
+          "name": "Material",
+          "value": "Gold"
+        },
+        {
+          "name": "Color",
+          "value": "gold"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Senegal"
+        },
+        {
+          "name": "Weight",
+          "value": "338 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2022"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Stehr - Bruen"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Color",
+          "value": "yellow"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Bahamas"
+        },
+        {
+          "name": "Weight",
+          "value": "1823 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "Hudson, Jones and Moore"
+        },
+        {
+          "name": "Material",
+          "value": "Gold"
+        },
+        {
+          "name": "Color",
+          "value": "lavender"
+        },
+        {
+          "name": "Origin Country",
+          "value": "Guam"
+        },
+        {
+          "name": "Weight",
+          "value": "195 g"
+        },
+        {
+          "name": "Warranty",
+          "value": "2 years"
+        },
+        {
+          "name": "Model Year",
+          "value": "2020"
+        }
+      ],
+      "id": 50
+    }
+  ],
+  "merchants": [
+    {
+      "id": 1,
+      "merchants": [
+        {
+          "name": "Gorczany - Satterfield",
+          "rating": 1,
+          "price": 173.79,
+          "delivery": "2025-12-15T04:09:09.965Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Muller - Beatty",
+          "rating": 2,
+          "price": 141.2,
+          "delivery": "2025-12-14T16:44:54.965Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Carter - Casper",
+          "rating": 5,
+          "price": 63.09,
+          "delivery": "2025-12-18T15:53:30.965Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Raynor Inc",
+          "rating": 5,
+          "price": 18.15,
+          "delivery": "2025-12-13T04:19:57.965Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Jacobi LLC",
+          "rating": 4,
+          "price": 57.75,
+          "delivery": "2025-12-17T13:57:51.965Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Armstrong, Bartell and Baumbach",
+          "rating": 3,
+          "price": 180.67,
+          "delivery": "2025-12-11T12:45:00.965Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Reichel, Bashirian and Hagenes",
+          "rating": 3,
+          "price": 154.75,
+          "delivery": "2025-12-13T09:09:02.965Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "merchants": [
+        {
+          "name": "Dibbert LLC",
+          "rating": 3,
+          "price": 19.69,
+          "delivery": "2025-12-12T10:36:43.965Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Bruen, Tillman and Hansen",
+          "rating": 5,
+          "price": 148.59,
+          "delivery": "2025-12-17T08:27:04.965Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Farrell, Rath and Dooley",
+          "rating": 1,
+          "price": 89.39,
+          "delivery": "2025-12-14T10:00:48.965Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kerluke, Welch and Armstrong",
+          "rating": 3,
+          "price": 67.05,
+          "delivery": "2025-12-12T05:01:50.965Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Paucek Group",
+          "rating": 4,
+          "price": 13.35,
+          "delivery": "2025-12-14T15:21:42.965Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Ziemann Inc",
+          "rating": 5,
+          "price": 58.45,
+          "delivery": "2025-12-13T03:30:43.965Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Towne, Gusikowski and Corkery",
+          "rating": 3,
+          "price": 161.39,
+          "delivery": "2025-12-12T10:34:02.965Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Waters Inc",
+          "rating": 1,
+          "price": 151.49,
+          "delivery": "2025-12-11T20:37:42.965Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Feeney Group",
+          "rating": 5,
+          "price": 124.39,
+          "delivery": "2025-12-13T02:47:38.965Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Dibbert, Deckow and Kub",
+          "rating": 2,
+          "price": 109.2,
+          "delivery": "2025-12-14T13:34:53.965Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "merchants": [
+        {
+          "name": "Durgan, Morar and Hills",
+          "rating": 2,
+          "price": 14.39,
+          "delivery": "2025-12-18T09:31:46.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Hermiston - Stark",
+          "rating": 4,
+          "price": 118.55,
+          "delivery": "2025-12-17T03:26:51.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Willms, Baumbach and Torphy",
+          "rating": 1,
+          "price": 150.89,
+          "delivery": "2025-12-13T02:22:27.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Harvey, Witting and Mitchell",
+          "rating": 1,
+          "price": 70.9,
+          "delivery": "2025-12-11T22:49:07.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Collier, Corwin and Baumbach",
+          "rating": 3,
+          "price": 112.8,
+          "delivery": "2025-12-13T21:25:46.966Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "merchants": [
+        {
+          "name": "Bradtke Inc",
+          "rating": 3,
+          "price": 188.49,
+          "delivery": "2025-12-17T01:03:19.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Schowalter - Mante",
+          "rating": 4,
+          "price": 147.25,
+          "delivery": "2025-12-13T10:08:48.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Pacocha - Flatley",
+          "rating": 3,
+          "price": 103.85,
+          "delivery": "2025-12-16T03:09:52.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Simonis LLC",
+          "rating": 5,
+          "price": 105.79,
+          "delivery": "2025-12-16T11:24:34.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Champlin LLC",
+          "rating": 2,
+          "price": 127.75,
+          "delivery": "2025-12-11T02:04:33.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Hettinger LLC",
+          "rating": 5,
+          "price": 107.36,
+          "delivery": "2025-12-11T20:06:55.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Farrell Group",
+          "rating": 1,
+          "price": 15.89,
+          "delivery": "2025-12-13T00:35:36.966Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "merchants": [
+        {
+          "name": "Lowe - Jenkins",
+          "rating": 1,
+          "price": 181.95,
+          "delivery": "2025-12-16T06:23:28.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Braun, Reilly and Langworth",
+          "rating": 2,
+          "price": 31.9,
+          "delivery": "2025-12-18T00:36:57.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Legros and Sons",
+          "rating": 3,
+          "price": 48.25,
+          "delivery": "2025-12-10T21:37:49.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Padberg - Kuvalis",
+          "rating": 5,
+          "price": 50.89,
+          "delivery": "2025-12-11T03:32:24.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Effertz LLC",
+          "rating": 2,
+          "price": 48.79,
+          "delivery": "2025-12-14T07:19:04.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Stiedemann LLC",
+          "rating": 5,
+          "price": 79.99,
+          "delivery": "2025-12-16T05:13:38.966Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "merchants": [
+        {
+          "name": "Olson and Sons",
+          "rating": 4,
+          "price": 50.1,
+          "delivery": "2025-12-16T07:56:18.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Fahey - Rolfson",
+          "rating": 2,
+          "price": 139.09,
+          "delivery": "2025-12-12T15:55:04.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kreiger LLC",
+          "rating": 4,
+          "price": 130.3,
+          "delivery": "2025-12-17T10:04:12.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Kemmer - Torp",
+          "rating": 1,
+          "price": 144.39,
+          "delivery": "2025-12-12T23:14:58.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Rodriguez Inc",
+          "rating": 3,
+          "price": 116.95,
+          "delivery": "2025-12-13T03:00:37.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Sauer - Schultz",
+          "rating": 4,
+          "price": 63.69,
+          "delivery": "2025-12-16T14:23:51.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Steuber Inc",
+          "rating": 4,
+          "price": 97.89,
+          "delivery": "2025-12-18T07:12:57.966Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "merchants": [
+        {
+          "name": "Runolfsson - Sporer",
+          "rating": 1,
+          "price": 124.25,
+          "delivery": "2025-12-16T23:06:02.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Durgan - Schiller",
+          "rating": 2,
+          "price": 152.99,
+          "delivery": "2025-12-14T03:11:43.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "McGlynn Inc",
+          "rating": 4,
+          "price": 25.69,
+          "delivery": "2025-12-15T14:53:41.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Jakubowski - Morar",
+          "rating": 1,
+          "price": 43.89,
+          "delivery": "2025-12-12T03:47:46.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Larkin, Crooks and Corwin",
+          "rating": 3,
+          "price": 172.89,
+          "delivery": "2025-12-13T12:51:18.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Treutel, Maggio and Koepp",
+          "rating": 2,
+          "price": 14.19,
+          "delivery": "2025-12-17T07:56:55.966Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "merchants": [
+        {
+          "name": "Wilderman, Bergstrom and O'Hara",
+          "rating": 3,
+          "price": 133.89,
+          "delivery": "2025-12-16T18:35:11.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Metz - Murphy",
+          "rating": 2,
+          "price": 66.09,
+          "delivery": "2025-12-11T16:34:17.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kemmer - Koch",
+          "rating": 3,
+          "price": 188.59,
+          "delivery": "2025-12-11T16:12:11.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Jaskolski Inc",
+          "rating": 2,
+          "price": 119.19,
+          "delivery": "2025-12-16T16:58:54.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Boehm Group",
+          "rating": 1,
+          "price": 108.79,
+          "delivery": "2025-12-15T05:29:26.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Walter LLC",
+          "rating": 3,
+          "price": 92.42,
+          "delivery": "2025-12-12T03:46:16.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Schoen, McClure and Turner",
+          "rating": 4,
+          "price": 65.6,
+          "delivery": "2025-12-13T15:08:11.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Brown Group",
+          "rating": 5,
+          "price": 48.19,
+          "delivery": "2025-12-18T09:19:10.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kub - Kassulke",
+          "rating": 4,
+          "price": 132.89,
+          "delivery": "2025-12-14T20:41:12.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Dooley Inc",
+          "rating": 4,
+          "price": 87.45,
+          "delivery": "2025-12-14T01:53:22.966Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "merchants": [
+        {
+          "name": "Hermiston Inc",
+          "rating": 2,
+          "price": 50.79,
+          "delivery": "2025-12-14T05:11:49.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Bode - Hessel",
+          "rating": 4,
+          "price": 148.39,
+          "delivery": "2025-12-17T12:34:48.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Gerhold, Altenwerth and Spencer",
+          "rating": 4,
+          "price": 189.39,
+          "delivery": "2025-12-16T11:34:40.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Nader Group",
+          "rating": 2,
+          "price": 154.19,
+          "delivery": "2025-12-15T02:41:19.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "O'Connell, Friesen and Simonis",
+          "rating": 1,
+          "price": 129.29,
+          "delivery": "2025-12-16T23:58:13.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Boehm Group",
+          "rating": 1,
+          "price": 66.35,
+          "delivery": "2025-12-18T17:34:35.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kulas - Nolan",
+          "rating": 4,
+          "price": 89.99,
+          "delivery": "2025-12-14T11:02:44.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "O'Kon - Dach",
+          "rating": 2,
+          "price": 38.69,
+          "delivery": "2025-12-18T13:50:55.966Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Haag, Morissette and Kling",
+          "rating": 2,
+          "price": 92.55,
+          "delivery": "2025-12-15T00:45:26.966Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "merchants": [
+        {
+          "name": "Streich Group",
+          "rating": 5,
+          "price": 33.75,
+          "delivery": "2025-12-15T12:15:38.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Ziemann Inc",
+          "rating": 2,
+          "price": 116.39,
+          "delivery": "2025-12-18T15:46:57.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Jerde - Douglas",
+          "rating": 5,
+          "price": 10.19,
+          "delivery": "2025-12-13T13:16:49.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Armstrong Inc",
+          "rating": 5,
+          "price": 194.79,
+          "delivery": "2025-12-15T12:58:02.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wyman - Daniel",
+          "rating": 2,
+          "price": 131.65,
+          "delivery": "2025-12-15T20:39:12.966Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Langosh Inc",
+          "rating": 5,
+          "price": 35.61,
+          "delivery": "2025-12-14T04:47:54.966Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Murazik, Willms and Toy",
+          "rating": 1,
+          "price": 146.75,
+          "delivery": "2025-12-11T13:56:06.966Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "merchants": [
+        {
+          "name": "Bode Inc",
+          "rating": 5,
+          "price": 76.69,
+          "delivery": "2025-12-18T08:33:22.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Dare - DuBuque",
+          "rating": 3,
+          "price": 134.99,
+          "delivery": "2025-12-11T03:23:14.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Homenick - Von",
+          "rating": 5,
+          "price": 67.99,
+          "delivery": "2025-12-11T22:30:26.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Abernathy - Schneider",
+          "rating": 5,
+          "price": 24.69,
+          "delivery": "2025-12-16T15:37:04.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Cruickshank - Greenfelder",
+          "rating": 1,
+          "price": 164.29,
+          "delivery": "2025-12-12T07:38:11.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Cremin Inc",
+          "rating": 4,
+          "price": 190.49,
+          "delivery": "2025-12-12T20:25:16.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Osinski Inc",
+          "rating": 4,
+          "price": 121.2,
+          "delivery": "2025-12-16T18:46:16.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Volkman Inc",
+          "rating": 3,
+          "price": 125.49,
+          "delivery": "2025-12-16T10:44:30.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Funk, Langosh and Torphy",
+          "rating": 2,
+          "price": 117.65,
+          "delivery": "2025-12-17T20:21:30.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Thiel, Mertz and Klocko",
+          "rating": 4,
+          "price": 197.25,
+          "delivery": "2025-12-16T06:22:50.967Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "merchants": [
+        {
+          "name": "Gutmann LLC",
+          "rating": 3,
+          "price": 30.85,
+          "delivery": "2025-12-13T18:22:14.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Larkin, Kuvalis and Hoppe",
+          "rating": 3,
+          "price": 45.85,
+          "delivery": "2025-12-12T01:32:06.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Hahn LLC",
+          "rating": 4,
+          "price": 37.09,
+          "delivery": "2025-12-18T08:00:34.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Lehner LLC",
+          "rating": 3,
+          "price": 38.15,
+          "delivery": "2025-12-12T15:34:42.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Smith Group",
+          "rating": 2,
+          "price": 37.29,
+          "delivery": "2025-12-11T18:48:32.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Beier, Dietrich and Schuppe",
+          "rating": 2,
+          "price": 122.89,
+          "delivery": "2025-12-13T12:40:58.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "MacGyver, Ferry and Kilback",
+          "rating": 1,
+          "price": 146.39,
+          "delivery": "2025-12-16T16:29:16.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Brown and Sons",
+          "rating": 3,
+          "price": 33.09,
+          "delivery": "2025-12-15T05:51:57.967Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "merchants": [
+        {
+          "name": "Klein Group",
+          "rating": 5,
+          "price": 197.99,
+          "delivery": "2025-12-17T12:36:17.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Lindgren - Legros",
+          "rating": 2,
+          "price": 182.84,
+          "delivery": "2025-12-14T13:57:40.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Schmeler, Monahan and Schultz",
+          "rating": 2,
+          "price": 166.69,
+          "delivery": "2025-12-16T07:53:07.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Pouros - Hilpert",
+          "rating": 3,
+          "price": 120.85,
+          "delivery": "2025-12-16T00:17:57.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Emard, Bailey and Gerhold",
+          "rating": 3,
+          "price": 23.29,
+          "delivery": "2025-12-13T16:30:27.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Larson Inc",
+          "rating": 1,
+          "price": 165.39,
+          "delivery": "2025-12-16T18:40:12.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Buckridge - Kohler",
+          "rating": 4,
+          "price": 129.75,
+          "delivery": "2025-12-18T03:26:02.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Nicolas - Huel",
+          "rating": 2,
+          "price": 122.89,
+          "delivery": "2025-12-17T05:40:15.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Aufderhar Inc",
+          "rating": 3,
+          "price": 69.99,
+          "delivery": "2025-12-15T11:29:45.967Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "merchants": [
+        {
+          "name": "Jacobson - Champlin",
+          "rating": 4,
+          "price": 184.27,
+          "delivery": "2025-12-17T04:55:34.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Turner - Padberg",
+          "rating": 5,
+          "price": 144.79,
+          "delivery": "2025-12-11T00:14:50.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Conn Group",
+          "rating": 3,
+          "price": 194.39,
+          "delivery": "2025-12-14T01:34:58.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Hodkiewicz Group",
+          "rating": 5,
+          "price": 85.8,
+          "delivery": "2025-12-11T09:02:39.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Prosacco - O'Connell",
+          "rating": 1,
+          "price": 44.25,
+          "delivery": "2025-12-15T08:02:20.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Franecki - Schiller",
+          "rating": 4,
+          "price": 106.79,
+          "delivery": "2025-12-17T16:36:26.967Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "merchants": [
+        {
+          "name": "Hyatt, Conn and Waters",
+          "rating": 3,
+          "price": 104.69,
+          "delivery": "2025-12-12T23:04:12.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Willms - Wiegand",
+          "rating": 2,
+          "price": 38.25,
+          "delivery": "2025-12-15T18:56:26.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Durgan and Sons",
+          "rating": 3,
+          "price": 75.9,
+          "delivery": "2025-12-14T13:42:42.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kirlin, Hilll and Boehm",
+          "rating": 2,
+          "price": 194.44,
+          "delivery": "2025-12-11T00:56:04.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Russel Inc",
+          "rating": 4,
+          "price": 54.39,
+          "delivery": "2025-12-17T03:03:36.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Russel, Monahan and Rutherford",
+          "rating": 1,
+          "price": 45.39,
+          "delivery": "2025-12-14T11:01:16.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Nitzsche Inc",
+          "rating": 1,
+          "price": 106.51,
+          "delivery": "2025-12-13T09:02:40.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Skiles - Kessler",
+          "rating": 5,
+          "price": 22.85,
+          "delivery": "2025-12-15T07:50:57.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Collins - Murphy",
+          "rating": 1,
+          "price": 51.39,
+          "delivery": "2025-12-13T01:26:54.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Nitzsche - Kutch",
+          "rating": 1,
+          "price": 147.05,
+          "delivery": "2025-12-14T13:47:18.967Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "merchants": [
+        {
+          "name": "Schiller - Runolfsson",
+          "rating": 1,
+          "price": 108.19,
+          "delivery": "2025-12-11T13:24:46.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Yost Group",
+          "rating": 1,
+          "price": 86.55,
+          "delivery": "2025-12-11T10:36:15.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "McGlynn, Ernser and Romaguera",
+          "rating": 3,
+          "price": 17.09,
+          "delivery": "2025-12-12T08:24:27.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Graham, O'Connell and Mertz",
+          "rating": 5,
+          "price": 141.53,
+          "delivery": "2025-12-16T16:04:19.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Schmeler Group",
+          "rating": 4,
+          "price": 73.69,
+          "delivery": "2025-12-15T19:58:21.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Lubowitz - Lakin",
+          "rating": 3,
+          "price": 174.99,
+          "delivery": "2025-12-12T20:20:49.967Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "merchants": [
+        {
+          "name": "Parker - Mohr",
+          "rating": 1,
+          "price": 155.95,
+          "delivery": "2025-12-17T20:22:36.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Orn - Spinka",
+          "rating": 1,
+          "price": 112.85,
+          "delivery": "2025-12-14T23:19:49.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kautzer - Hahn",
+          "rating": 1,
+          "price": 98.07,
+          "delivery": "2025-12-12T14:50:49.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Schroeder - Rosenbaum",
+          "rating": 3,
+          "price": 101.95,
+          "delivery": "2025-12-11T10:36:17.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Ferry Group",
+          "rating": 2,
+          "price": 77.45,
+          "delivery": "2025-12-14T21:03:25.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Goyette Inc",
+          "rating": 3,
+          "price": 31.59,
+          "delivery": "2025-12-14T14:35:41.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Mante Group",
+          "rating": 5,
+          "price": 115.05,
+          "delivery": "2025-12-11T19:24:39.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Fadel, Feeney and Wilderman",
+          "rating": 5,
+          "price": 112.29,
+          "delivery": "2025-12-11T21:14:47.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Leannon - Hilll",
+          "rating": 5,
+          "price": 88.79,
+          "delivery": "2025-12-17T04:44:26.967Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "merchants": [
+        {
+          "name": "Osinski, Muller and Corkery",
+          "rating": 2,
+          "price": 99.09,
+          "delivery": "2025-12-18T02:18:07.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Marquardt, Emmerich and Runolfsdottir",
+          "rating": 1,
+          "price": 160.59,
+          "delivery": "2025-12-18T07:21:17.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Luettgen, Rutherford and Lemke",
+          "rating": 4,
+          "price": 171.35,
+          "delivery": "2025-12-15T22:22:05.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Murray Inc",
+          "rating": 4,
+          "price": 108.15,
+          "delivery": "2025-12-11T05:56:24.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kovacek LLC",
+          "rating": 3,
+          "price": 160.05,
+          "delivery": "2025-12-14T20:49:43.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Moen, Willms and Stiedemann",
+          "rating": 4,
+          "price": 91.59,
+          "delivery": "2025-12-11T16:37:57.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Schulist and Sons",
+          "rating": 5,
+          "price": 180.95,
+          "delivery": "2025-12-17T20:01:35.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Cassin, Von and Nikolaus",
+          "rating": 4,
+          "price": 50.89,
+          "delivery": "2025-12-11T06:44:29.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Marquardt, Stoltenberg and Boyle",
+          "rating": 2,
+          "price": 169.39,
+          "delivery": "2025-12-17T09:38:32.967Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "merchants": [
+        {
+          "name": "Muller, Torp and Price",
+          "rating": 3,
+          "price": 53.4,
+          "delivery": "2025-12-15T04:29:25.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Bartoletti Inc",
+          "rating": 1,
+          "price": 18.99,
+          "delivery": "2025-12-14T17:25:48.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Douglas - Hansen",
+          "rating": 2,
+          "price": 63.15,
+          "delivery": "2025-12-15T06:27:58.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Walsh - Emard",
+          "rating": 1,
+          "price": 45.59,
+          "delivery": "2025-12-11T02:32:38.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Farrell - Upton",
+          "rating": 5,
+          "price": 108.79,
+          "delivery": "2025-12-14T19:06:38.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Schulist, Baumbach and Schmeler",
+          "rating": 5,
+          "price": 112.5,
+          "delivery": "2025-12-11T19:30:22.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Waters, Jacobson and Von",
+          "rating": 5,
+          "price": 182.23,
+          "delivery": "2025-12-11T17:56:26.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Herzog and Sons",
+          "rating": 2,
+          "price": 76.19,
+          "delivery": "2025-12-12T04:30:19.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Ullrich - Tremblay",
+          "rating": 4,
+          "price": 156.69,
+          "delivery": "2025-12-17T18:53:26.967Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "merchants": [
+        {
+          "name": "Lueilwitz - Lind",
+          "rating": 2,
+          "price": 160.65,
+          "delivery": "2025-12-16T00:55:18.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Rau and Sons",
+          "rating": 2,
+          "price": 60.99,
+          "delivery": "2025-12-11T23:17:22.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Harris Inc",
+          "rating": 3,
+          "price": 73.99,
+          "delivery": "2025-12-16T20:45:03.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Prohaska - Bauch",
+          "rating": 3,
+          "price": 70.33,
+          "delivery": "2025-12-17T09:17:51.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Altenwerth, Gislason and Shields",
+          "rating": 1,
+          "price": 23.3,
+          "delivery": "2025-12-15T21:51:52.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Bauch, Borer and Rice",
+          "rating": 3,
+          "price": 139.85,
+          "delivery": "2025-12-12T15:50:23.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Sanford, Reinger and Mertz",
+          "rating": 3,
+          "price": 129.15,
+          "delivery": "2025-12-12T16:33:08.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Rippin, Cassin and Reilly",
+          "rating": 2,
+          "price": 52.65,
+          "delivery": "2025-12-17T21:26:16.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Sporer LLC",
+          "rating": 4,
+          "price": 34.49,
+          "delivery": "2025-12-11T14:56:42.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Pfannerstill - Torphy",
+          "rating": 5,
+          "price": 60.89,
+          "delivery": "2025-12-13T05:31:48.967Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "merchants": [
+        {
+          "name": "Corwin and Sons",
+          "rating": 4,
+          "price": 143.29,
+          "delivery": "2025-12-12T08:14:47.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Cormier, Pouros and Hudson",
+          "rating": 1,
+          "price": 86.75,
+          "delivery": "2025-12-16T07:06:15.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Bartoletti and Sons",
+          "rating": 3,
+          "price": 61.8,
+          "delivery": "2025-12-16T10:19:40.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Jaskolski, Weber and Yundt",
+          "rating": 3,
+          "price": 19.55,
+          "delivery": "2025-12-17T19:39:31.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Zulauf - Fay",
+          "rating": 1,
+          "price": 172.09,
+          "delivery": "2025-12-16T05:33:04.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Halvorson - Vandervort",
+          "rating": 3,
+          "price": 149.3,
+          "delivery": "2025-12-11T19:12:09.967Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "merchants": [
+        {
+          "name": "Barton Inc",
+          "rating": 3,
+          "price": 57.89,
+          "delivery": "2025-12-13T20:54:11.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Langosh - Grant",
+          "rating": 3,
+          "price": 184.95,
+          "delivery": "2025-12-12T22:13:10.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Spinka Group",
+          "rating": 5,
+          "price": 75.79,
+          "delivery": "2025-12-14T15:39:26.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kunze Inc",
+          "rating": 3,
+          "price": 191.04,
+          "delivery": "2025-12-11T11:48:03.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Glover Group",
+          "rating": 1,
+          "price": 128.25,
+          "delivery": "2025-12-15T07:43:22.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Sawayn - Purdy",
+          "rating": 4,
+          "price": 111.95,
+          "delivery": "2025-12-11T13:32:48.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Conroy, Bernhard and Kautzer",
+          "rating": 4,
+          "price": 83.99,
+          "delivery": "2025-12-18T10:48:41.967Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "merchants": [
+        {
+          "name": "Cartwright Inc",
+          "rating": 5,
+          "price": 33.19,
+          "delivery": "2025-12-18T03:57:53.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Hills and Sons",
+          "rating": 5,
+          "price": 41.09,
+          "delivery": "2025-12-15T01:27:16.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Gerhold - Senger",
+          "rating": 3,
+          "price": 116.09,
+          "delivery": "2025-12-16T08:45:25.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Daugherty - Hagenes",
+          "rating": 4,
+          "price": 48.1,
+          "delivery": "2025-12-15T05:37:42.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Bradtke - Wyman",
+          "rating": 5,
+          "price": 67.19,
+          "delivery": "2025-12-15T18:14:49.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Morissette LLC",
+          "rating": 1,
+          "price": 198.05,
+          "delivery": "2025-12-12T00:58:52.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Grady, Rohan and Orn",
+          "rating": 4,
+          "price": 142.09,
+          "delivery": "2025-12-14T12:48:12.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Purdy LLC",
+          "rating": 3,
+          "price": 184.99,
+          "delivery": "2025-12-12T06:54:41.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kovacek - Casper",
+          "rating": 4,
+          "price": 179.19,
+          "delivery": "2025-12-12T11:07:36.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Conn - Bashirian",
+          "rating": 1,
+          "price": 103.49,
+          "delivery": "2025-12-17T14:19:21.967Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "merchants": [
+        {
+          "name": "Mayert, Marquardt and Mills",
+          "rating": 3,
+          "price": 65.49,
+          "delivery": "2025-12-16T12:37:35.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wilkinson, Buckridge and Abernathy",
+          "rating": 1,
+          "price": 190.89,
+          "delivery": "2025-12-17T23:55:22.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Dibbert Group",
+          "rating": 1,
+          "price": 59.69,
+          "delivery": "2025-12-11T19:38:07.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Simonis Inc",
+          "rating": 4,
+          "price": 184.49,
+          "delivery": "2025-12-15T20:09:22.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Osinski and Sons",
+          "rating": 2,
+          "price": 72.23,
+          "delivery": "2025-12-17T17:05:18.967Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Balistreri - Mann",
+          "rating": 4,
+          "price": 39,
+          "delivery": "2025-12-14T10:57:22.967Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "merchants": [
+        {
+          "name": "Kiehn, Huel and Jast",
+          "rating": 5,
+          "price": 171.99,
+          "delivery": "2025-12-12T17:26:04.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Schimmel, Abshire and Howell",
+          "rating": 5,
+          "price": 45.59,
+          "delivery": "2025-12-18T02:52:08.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Brakus, Davis and McClure",
+          "rating": 1,
+          "price": 183.99,
+          "delivery": "2025-12-18T13:40:17.967Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Mills, Muller and Gorczany",
+          "rating": 5,
+          "price": 40.25,
+          "delivery": "2025-12-11T11:19:06.967Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Veum, Rau and Bahringer",
+          "rating": 4,
+          "price": 93.6,
+          "delivery": "2025-12-17T08:10:40.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Muller Inc",
+          "rating": 5,
+          "price": 62.19,
+          "delivery": "2025-12-14T11:37:38.968Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "merchants": [
+        {
+          "name": "Beahan - Sanford",
+          "rating": 2,
+          "price": 144.05,
+          "delivery": "2025-12-14T04:55:21.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Ondricka - Kutch",
+          "rating": 5,
+          "price": 192.39,
+          "delivery": "2025-12-17T16:41:02.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kshlerin - Kiehn",
+          "rating": 1,
+          "price": 73.95,
+          "delivery": "2025-12-16T01:08:17.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Zieme Inc",
+          "rating": 2,
+          "price": 159.59,
+          "delivery": "2025-12-18T01:51:58.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Doyle - Borer",
+          "rating": 2,
+          "price": 191.49,
+          "delivery": "2025-12-11T06:03:30.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Bartoletti Group",
+          "rating": 2,
+          "price": 17.29,
+          "delivery": "2025-12-18T15:25:06.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Glover - Runolfsson",
+          "rating": 4,
+          "price": 38.2,
+          "delivery": "2025-12-12T13:04:38.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Schuster - Wehner",
+          "rating": 3,
+          "price": 143.19,
+          "delivery": "2025-12-13T04:31:23.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Bernier, Langworth and Skiles",
+          "rating": 4,
+          "price": 57.36,
+          "delivery": "2025-12-16T18:45:35.968Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "merchants": [
+        {
+          "name": "Kuvalis - Durgan",
+          "rating": 3,
+          "price": 160.99,
+          "delivery": "2025-12-14T10:01:59.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Jast - Dietrich",
+          "rating": 1,
+          "price": 150.45,
+          "delivery": "2025-12-11T04:40:20.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Keeling, Kuvalis and Towne",
+          "rating": 3,
+          "price": 11.59,
+          "delivery": "2025-12-14T01:53:23.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kuhn Inc",
+          "rating": 1,
+          "price": 32.39,
+          "delivery": "2025-12-17T02:24:35.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Jast LLC",
+          "rating": 2,
+          "price": 160.68,
+          "delivery": "2025-12-12T18:03:02.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Hermiston, Bruen and Deckow",
+          "rating": 2,
+          "price": 107.99,
+          "delivery": "2025-12-14T16:59:17.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Heaney LLC",
+          "rating": 4,
+          "price": 124.29,
+          "delivery": "2025-12-12T22:17:27.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "O'Kon, Franecki and Hackett",
+          "rating": 2,
+          "price": 170.19,
+          "delivery": "2025-12-15T18:41:09.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Franecki, Gusikowski and Mohr",
+          "rating": 5,
+          "price": 132.19,
+          "delivery": "2025-12-18T00:43:51.968Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "merchants": [
+        {
+          "name": "Wilderman, Lowe and Langosh",
+          "rating": 5,
+          "price": 95.95,
+          "delivery": "2025-12-11T22:08:36.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Greenfelder, Pfeffer and Deckow",
+          "rating": 4,
+          "price": 75.1,
+          "delivery": "2025-12-18T12:00:34.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Feest, Stiedemann and Reichert",
+          "rating": 5,
+          "price": 177.3,
+          "delivery": "2025-12-12T20:28:15.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Smitham, Larkin and Hermann",
+          "rating": 1,
+          "price": 19.35,
+          "delivery": "2025-12-15T09:52:18.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Altenwerth - Bergstrom",
+          "rating": 1,
+          "price": 56.29,
+          "delivery": "2025-12-10T23:48:11.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Bernier Inc",
+          "rating": 3,
+          "price": 56.3,
+          "delivery": "2025-12-13T18:33:42.968Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "merchants": [
+        {
+          "name": "Ratke LLC",
+          "rating": 3,
+          "price": 52.39,
+          "delivery": "2025-12-18T00:00:05.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Stehr - Lind",
+          "rating": 5,
+          "price": 14.49,
+          "delivery": "2025-12-18T01:02:06.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Lesch - Skiles",
+          "rating": 1,
+          "price": 106.76,
+          "delivery": "2025-12-14T21:27:10.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Rogahn, Bednar and Balistreri",
+          "rating": 5,
+          "price": 112.59,
+          "delivery": "2025-12-18T13:07:09.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Hilll, Upton and McClure",
+          "rating": 5,
+          "price": 172.59,
+          "delivery": "2025-12-16T19:51:55.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Spinka, Metz and Morissette",
+          "rating": 2,
+          "price": 58.6,
+          "delivery": "2025-12-12T10:22:43.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Mohr - Littel",
+          "rating": 4,
+          "price": 45.69,
+          "delivery": "2025-12-18T02:12:18.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Carter - Jacobi",
+          "rating": 3,
+          "price": 111.09,
+          "delivery": "2025-12-15T15:29:53.968Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "merchants": [
+        {
+          "name": "Rogahn - Renner",
+          "rating": 1,
+          "price": 143.3,
+          "delivery": "2025-12-12T00:07:03.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Rowe, O'Keefe and Hoeger",
+          "rating": 2,
+          "price": 99.99,
+          "delivery": "2025-12-16T18:28:48.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Vandervort - Becker",
+          "rating": 1,
+          "price": 65.41,
+          "delivery": "2025-12-14T20:20:04.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Bashirian LLC",
+          "rating": 3,
+          "price": 49.95,
+          "delivery": "2025-12-17T22:48:04.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Dickinson - Carter",
+          "rating": 2,
+          "price": 104.79,
+          "delivery": "2025-12-15T22:15:05.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Larkin LLC",
+          "rating": 1,
+          "price": 21.19,
+          "delivery": "2025-12-13T22:56:03.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Batz - Predovic",
+          "rating": 4,
+          "price": 26.25,
+          "delivery": "2025-12-16T04:03:52.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Crooks - Kuvalis",
+          "rating": 1,
+          "price": 42.49,
+          "delivery": "2025-12-15T21:22:30.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kohler, Smitham and Jacobi",
+          "rating": 2,
+          "price": 145.15,
+          "delivery": "2025-12-17T16:40:43.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Reinger and Sons",
+          "rating": 4,
+          "price": 43.09,
+          "delivery": "2025-12-12T15:38:40.968Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "merchants": [
+        {
+          "name": "Turner - Hettinger",
+          "rating": 4,
+          "price": 75.89,
+          "delivery": "2025-12-11T09:09:49.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Rowe - Morissette",
+          "rating": 2,
+          "price": 113.85,
+          "delivery": "2025-12-10T19:08:55.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Jaskolski, Schoen and Rolfson",
+          "rating": 2,
+          "price": 97.79,
+          "delivery": "2025-12-13T01:05:10.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kihn Inc",
+          "rating": 1,
+          "price": 161.2,
+          "delivery": "2025-12-12T22:10:18.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Gleichner, Wunsch and Brakus",
+          "rating": 5,
+          "price": 150.89,
+          "delivery": "2025-12-13T11:57:20.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wiza - Miller",
+          "rating": 2,
+          "price": 77.29,
+          "delivery": "2025-12-13T09:25:48.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Krajcik - Tremblay",
+          "rating": 3,
+          "price": 196.45,
+          "delivery": "2025-12-11T00:36:52.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Windler, Gorczany and Collier",
+          "rating": 3,
+          "price": 107.49,
+          "delivery": "2025-12-11T19:40:00.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Gorczany - Hintz",
+          "rating": 4,
+          "price": 188.75,
+          "delivery": "2025-12-12T07:20:51.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Dickens Inc",
+          "rating": 5,
+          "price": 190.79,
+          "delivery": "2025-12-13T01:37:18.968Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "merchants": [
+        {
+          "name": "Bruen - McClure",
+          "rating": 3,
+          "price": 106.95,
+          "delivery": "2025-12-18T07:00:51.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Larkin Inc",
+          "rating": 3,
+          "price": 187.85,
+          "delivery": "2025-12-11T06:07:06.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wilderman Group",
+          "rating": 4,
+          "price": 65,
+          "delivery": "2025-12-14T12:50:15.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Batz LLC",
+          "rating": 2,
+          "price": 155.49,
+          "delivery": "2025-12-17T13:58:42.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Rohan - Borer",
+          "rating": 5,
+          "price": 57.95,
+          "delivery": "2025-12-17T00:36:57.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Reynolds, Shanahan and Kautzer",
+          "rating": 3,
+          "price": 49.25,
+          "delivery": "2025-12-13T13:49:10.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Reinger - Kessler",
+          "rating": 3,
+          "price": 197.45,
+          "delivery": "2025-12-14T18:58:44.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Mohr and Sons",
+          "rating": 1,
+          "price": 119.31,
+          "delivery": "2025-12-14T18:18:46.968Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "merchants": [
+        {
+          "name": "Braun, Mante and Weimann",
+          "rating": 5,
+          "price": 130.45,
+          "delivery": "2025-12-17T23:27:45.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Bahringer Inc",
+          "rating": 1,
+          "price": 59.35,
+          "delivery": "2025-12-15T13:04:39.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Miller Inc",
+          "rating": 1,
+          "price": 48.75,
+          "delivery": "2025-12-12T13:36:04.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Rogahn, Nienow and Davis",
+          "rating": 2,
+          "price": 42.15,
+          "delivery": "2025-12-10T21:08:01.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Keebler, O'Conner and Greenfelder",
+          "rating": 2,
+          "price": 82.09,
+          "delivery": "2025-12-13T02:46:29.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Corkery and Sons",
+          "rating": 1,
+          "price": 119.5,
+          "delivery": "2025-12-11T23:01:49.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Hane, Windler and Macejkovic",
+          "rating": 4,
+          "price": 73.99,
+          "delivery": "2025-12-14T23:29:34.968Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "merchants": [
+        {
+          "name": "Berge - Franecki",
+          "rating": 5,
+          "price": 27.89,
+          "delivery": "2025-12-13T14:31:11.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "VonRueden Inc",
+          "rating": 3,
+          "price": 151.39,
+          "delivery": "2025-12-14T22:43:14.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Grant, Schulist and Johnston",
+          "rating": 1,
+          "price": 154.29,
+          "delivery": "2025-12-16T04:59:24.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Schuster Inc",
+          "rating": 5,
+          "price": 134.79,
+          "delivery": "2025-12-17T10:54:15.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Koelpin - Kassulke",
+          "rating": 2,
+          "price": 181.67,
+          "delivery": "2025-12-12T02:00:58.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Orn LLC",
+          "rating": 1,
+          "price": 110.49,
+          "delivery": "2025-12-13T07:30:45.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Grady and Sons",
+          "rating": 3,
+          "price": 198.45,
+          "delivery": "2025-12-18T00:23:03.968Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "merchants": [
+        {
+          "name": "Ankunding - Strosin",
+          "rating": 1,
+          "price": 197.05,
+          "delivery": "2025-12-13T21:27:13.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Ward Group",
+          "rating": 5,
+          "price": 186.81,
+          "delivery": "2025-12-17T06:05:48.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Herzog, Fadel and Renner",
+          "rating": 1,
+          "price": 135.79,
+          "delivery": "2025-12-13T16:21:47.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Oberbrunner and Sons",
+          "rating": 5,
+          "price": 193.79,
+          "delivery": "2025-12-14T14:00:24.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Haag, McKenzie and Green",
+          "rating": 3,
+          "price": 23.69,
+          "delivery": "2025-12-15T08:53:53.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Reichel, Muller and Lubowitz",
+          "rating": 2,
+          "price": 77.29,
+          "delivery": "2025-12-11T09:39:10.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Predovic and Sons",
+          "rating": 1,
+          "price": 67.67,
+          "delivery": "2025-12-13T04:36:32.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Wisozk, Aufderhar and Beatty",
+          "rating": 3,
+          "price": 178.8,
+          "delivery": "2025-12-13T07:34:40.968Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "merchants": [
+        {
+          "name": "Stracke and Sons",
+          "rating": 1,
+          "price": 131.72,
+          "delivery": "2025-12-16T05:45:22.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Roob - Jacobi",
+          "rating": 2,
+          "price": 45.75,
+          "delivery": "2025-12-15T12:03:15.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Wolf - Pagac",
+          "rating": 4,
+          "price": 152.6,
+          "delivery": "2025-12-18T06:13:34.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Kutch - Hilll",
+          "rating": 3,
+          "price": 31.39,
+          "delivery": "2025-12-12T11:36:31.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Williamson - Steuber",
+          "rating": 5,
+          "price": 70.89,
+          "delivery": "2025-12-17T11:15:15.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Doyle, Hamill and Smitham",
+          "rating": 2,
+          "price": 64.07,
+          "delivery": "2025-12-14T00:35:32.968Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "merchants": [
+        {
+          "name": "Hirthe - Reinger",
+          "rating": 5,
+          "price": 35.49,
+          "delivery": "2025-12-12T15:40:41.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Denesik Group",
+          "rating": 1,
+          "price": 90.2,
+          "delivery": "2025-12-13T20:54:48.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Ledner, Aufderhar and Grant",
+          "rating": 3,
+          "price": 120.35,
+          "delivery": "2025-12-11T22:54:44.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Veum and Sons",
+          "rating": 3,
+          "price": 146.72,
+          "delivery": "2025-12-14T23:45:53.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Boehm Inc",
+          "rating": 4,
+          "price": 69.29,
+          "delivery": "2025-12-15T11:35:00.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Bode, Herzog and Lueilwitz",
+          "rating": 5,
+          "price": 85.8,
+          "delivery": "2025-12-16T03:27:38.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Windler Inc",
+          "rating": 5,
+          "price": 25.89,
+          "delivery": "2025-12-16T13:29:26.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Krajcik Inc",
+          "rating": 3,
+          "price": 108.35,
+          "delivery": "2025-12-13T19:55:05.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Cruickshank - Keeling",
+          "rating": 1,
+          "price": 137.59,
+          "delivery": "2025-12-14T21:47:34.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Crooks and Sons",
+          "rating": 4,
+          "price": 17.29,
+          "delivery": "2025-12-14T03:20:05.968Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "merchants": [
+        {
+          "name": "Harris - Gleichner",
+          "rating": 3,
+          "price": 169.19,
+          "delivery": "2025-12-17T20:33:48.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "McCullough - Braun",
+          "rating": 4,
+          "price": 114.49,
+          "delivery": "2025-12-12T23:10:18.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Grady - Schuster",
+          "rating": 1,
+          "price": 175.29,
+          "delivery": "2025-12-14T10:09:14.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Reilly, Langworth and Wisoky",
+          "rating": 4,
+          "price": 156.79,
+          "delivery": "2025-12-13T00:53:14.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kiehn, Wiza and Yost",
+          "rating": 4,
+          "price": 75.45,
+          "delivery": "2025-12-13T00:29:51.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wuckert, Bins and Heathcote",
+          "rating": 2,
+          "price": 38.59,
+          "delivery": "2025-12-10T22:40:02.968Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "merchants": [
+        {
+          "name": "Rath Group",
+          "rating": 3,
+          "price": 137.24,
+          "delivery": "2025-12-11T16:55:26.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kohler Inc",
+          "rating": 2,
+          "price": 26.45,
+          "delivery": "2025-12-11T09:51:12.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Jaskolski - Witting",
+          "rating": 3,
+          "price": 20.35,
+          "delivery": "2025-12-13T02:03:17.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Trantow Inc",
+          "rating": 4,
+          "price": 117.55,
+          "delivery": "2025-12-15T15:12:03.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Daniel Group",
+          "rating": 3,
+          "price": 78.69,
+          "delivery": "2025-12-15T09:13:08.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Bosco - Kiehn",
+          "rating": 3,
+          "price": 156.99,
+          "delivery": "2025-12-14T10:48:58.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Ullrich Inc",
+          "rating": 5,
+          "price": 123.75,
+          "delivery": "2025-12-12T03:46:36.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Jacobson Group",
+          "rating": 1,
+          "price": 22.25,
+          "delivery": "2025-12-16T02:50:26.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Rohan, Streich and Franecki",
+          "rating": 4,
+          "price": 99.79,
+          "delivery": "2025-12-14T14:33:14.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wisozk - DuBuque",
+          "rating": 4,
+          "price": 71.63,
+          "delivery": "2025-12-16T07:21:18.968Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "merchants": [
+        {
+          "name": "Jaskolski LLC",
+          "rating": 2,
+          "price": 52,
+          "delivery": "2025-12-13T03:39:56.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Schuster, Beahan and Ward",
+          "rating": 4,
+          "price": 176.99,
+          "delivery": "2025-12-17T00:09:24.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Sipes, Friesen and Moen",
+          "rating": 1,
+          "price": 70.14,
+          "delivery": "2025-12-10T22:57:02.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Yundt, Thompson and Koepp",
+          "rating": 1,
+          "price": 125.69,
+          "delivery": "2025-12-12T01:09:16.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Glover and Sons",
+          "rating": 4,
+          "price": 55.79,
+          "delivery": "2025-12-11T06:02:54.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Lockman Inc",
+          "rating": 1,
+          "price": 45.75,
+          "delivery": "2025-12-13T10:34:49.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Doyle, Hackett and Barton",
+          "rating": 4,
+          "price": 76.05,
+          "delivery": "2025-12-11T16:00:15.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Jenkins, Stoltenberg and Jaskolski",
+          "rating": 5,
+          "price": 11.25,
+          "delivery": "2025-12-13T18:14:07.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Gulgowski, Leuschke and Walsh",
+          "rating": 3,
+          "price": 56.39,
+          "delivery": "2025-12-14T14:03:19.968Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "merchants": [
+        {
+          "name": "Roberts LLC",
+          "rating": 5,
+          "price": 191.87,
+          "delivery": "2025-12-11T01:49:19.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Batz, Zieme and Goodwin",
+          "rating": 4,
+          "price": 194.05,
+          "delivery": "2025-12-17T16:05:16.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Bode, Lakin and Howell",
+          "rating": 1,
+          "price": 92.39,
+          "delivery": "2025-12-12T09:09:36.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Ortiz, Swift and Reinger",
+          "rating": 5,
+          "price": 77.65,
+          "delivery": "2025-12-14T10:04:35.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Gibson, Moen and Turcotte",
+          "rating": 4,
+          "price": 91.25,
+          "delivery": "2025-12-11T23:08:52.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Collins, Boyer and Botsford",
+          "rating": 2,
+          "price": 160.99,
+          "delivery": "2025-12-17T05:58:07.968Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Wuckert LLC",
+          "rating": 1,
+          "price": 113.25,
+          "delivery": "2025-12-15T02:25:16.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Mueller - Cummerata",
+          "rating": 5,
+          "price": 69.09,
+          "delivery": "2025-12-18T15:21:22.968Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "merchants": [
+        {
+          "name": "Paucek Inc",
+          "rating": 1,
+          "price": 113.69,
+          "delivery": "2025-12-17T05:49:39.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Labadie, McLaughlin and Nicolas",
+          "rating": 4,
+          "price": 116.49,
+          "delivery": "2025-12-17T00:54:05.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wiza, Ziemann and Hills",
+          "rating": 4,
+          "price": 63.65,
+          "delivery": "2025-12-16T22:36:07.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Runolfsson, Kub and Farrell",
+          "rating": 1,
+          "price": 83.3,
+          "delivery": "2025-12-16T05:47:59.968Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Carter - Kuhn",
+          "rating": 4,
+          "price": 107.49,
+          "delivery": "2025-12-18T06:08:09.968Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Mills and Sons",
+          "rating": 1,
+          "price": 118.55,
+          "delivery": "2025-12-10T23:55:52.968Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "merchants": [
+        {
+          "name": "DuBuque - Jerde",
+          "rating": 2,
+          "price": 131.49,
+          "delivery": "2025-12-10T22:10:59.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Stroman, Vandervort and Hirthe",
+          "rating": 2,
+          "price": 45.6,
+          "delivery": "2025-12-12T11:26:59.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Schowalter, Lockman and Maggio",
+          "rating": 1,
+          "price": 154.59,
+          "delivery": "2025-12-16T20:00:00.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Botsford and Sons",
+          "rating": 4,
+          "price": 119.79,
+          "delivery": "2025-12-13T09:08:56.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Parker LLC",
+          "rating": 3,
+          "price": 52.29,
+          "delivery": "2025-12-13T18:37:13.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Aufderhar - Robel",
+          "rating": 3,
+          "price": 88.43,
+          "delivery": "2025-12-13T23:33:52.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Sporer - Murphy",
+          "rating": 5,
+          "price": 126.59,
+          "delivery": "2025-12-18T03:15:35.969Z",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "merchants": [
+        {
+          "name": "Ortiz, Smitham and Nicolas",
+          "rating": 3,
+          "price": 79.49,
+          "delivery": "2025-12-12T20:27:15.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Strosin Group",
+          "rating": 4,
+          "price": 180.79,
+          "delivery": "2025-12-16T12:07:57.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Mosciski, Swift and Cruickshank",
+          "rating": 3,
+          "price": 79.79,
+          "delivery": "2025-12-11T19:35:40.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Funk, O'Hara and Lang",
+          "rating": 1,
+          "price": 166.8,
+          "delivery": "2025-12-15T14:32:04.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Price Group",
+          "rating": 1,
+          "price": 197.89,
+          "delivery": "2025-12-15T02:44:52.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Hayes, Graham and Abernathy",
+          "rating": 5,
+          "price": 162.69,
+          "delivery": "2025-12-17T10:13:36.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Langosh LLC",
+          "rating": 4,
+          "price": 170.79,
+          "delivery": "2025-12-12T01:13:22.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Dicki Group",
+          "rating": 3,
+          "price": 95.85,
+          "delivery": "2025-12-16T18:00:51.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Kuvalis - Greenholt",
+          "rating": 4,
+          "price": 176.79,
+          "delivery": "2025-12-11T20:42:34.969Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "merchants": [
+        {
+          "name": "Kuphal Inc",
+          "rating": 1,
+          "price": 181.5,
+          "delivery": "2025-12-16T11:52:32.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Schaefer - Hauck",
+          "rating": 2,
+          "price": 58.79,
+          "delivery": "2025-12-11T14:26:59.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Schmeler - Cormier",
+          "rating": 1,
+          "price": 163.99,
+          "delivery": "2025-12-17T08:25:58.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Stoltenberg Group",
+          "rating": 2,
+          "price": 143.19,
+          "delivery": "2025-12-16T04:22:54.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Toy Group",
+          "rating": 2,
+          "price": 50.37,
+          "delivery": "2025-12-14T05:12:16.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Emmerich, Grant and Russel",
+          "rating": 2,
+          "price": 29.09,
+          "delivery": "2025-12-16T08:44:51.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "VonRueden and Sons",
+          "rating": 5,
+          "price": 79.7,
+          "delivery": "2025-12-14T14:26:19.969Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "merchants": [
+        {
+          "name": "Kutch - Ryan",
+          "rating": 4,
+          "price": 121.3,
+          "delivery": "2025-12-15T23:08:43.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Larkin, Cummerata and Zboncak",
+          "rating": 2,
+          "price": 72.2,
+          "delivery": "2025-12-14T10:23:43.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Marvin Group",
+          "rating": 4,
+          "price": 173.49,
+          "delivery": "2025-12-13T14:21:39.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Hudson Group",
+          "rating": 5,
+          "price": 43.15,
+          "delivery": "2025-12-15T13:56:13.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Mueller - Brown",
+          "rating": 2,
+          "price": 33.59,
+          "delivery": "2025-12-11T17:48:10.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Witting - Flatley",
+          "rating": 4,
+          "price": 184.49,
+          "delivery": "2025-12-18T12:33:25.969Z",
+          "currency": "RUB"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "merchants": [
+        {
+          "name": "Jerde Group",
+          "rating": 3,
+          "price": 54.05,
+          "delivery": "2025-12-17T15:32:35.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Bergnaum - Buckridge",
+          "rating": 3,
+          "price": 175.75,
+          "delivery": "2025-12-12T06:00:09.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Dietrich, Franecki and Greenholt",
+          "rating": 2,
+          "price": 179.99,
+          "delivery": "2025-12-11T13:05:05.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Homenick - Grimes",
+          "rating": 5,
+          "price": 154.45,
+          "delivery": "2025-12-13T06:22:02.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Mayer, Rohan and Okuneva",
+          "rating": 3,
+          "price": 50.1,
+          "delivery": "2025-12-16T23:51:13.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Olson, Barrows and Mitchell",
+          "rating": 4,
+          "price": 27.39,
+          "delivery": "2025-12-18T15:41:18.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wehner, Olson and Weimann",
+          "rating": 5,
+          "price": 57.95,
+          "delivery": "2025-12-17T16:44:43.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Hammes, Hagenes and Reichel",
+          "rating": 3,
+          "price": 50.51,
+          "delivery": "2025-12-15T09:30:00.969Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "merchants": [
+        {
+          "name": "Stamm and Sons",
+          "rating": 5,
+          "price": 29.89,
+          "delivery": "2025-12-13T18:22:32.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Green - Gibson",
+          "rating": 4,
+          "price": 59.35,
+          "delivery": "2025-12-16T01:25:54.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Keebler LLC",
+          "rating": 1,
+          "price": 144.19,
+          "delivery": "2025-12-17T08:53:02.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Cole, Ritchie and Graham",
+          "rating": 4,
+          "price": 159.95,
+          "delivery": "2025-12-10T21:14:02.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Durgan, Reinger and Fisher",
+          "rating": 4,
+          "price": 195.09,
+          "delivery": "2025-12-12T11:03:33.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Sporer - Kris",
+          "rating": 3,
+          "price": 51.59,
+          "delivery": "2025-12-17T05:01:51.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "West, Monahan and Kertzmann",
+          "rating": 1,
+          "price": 76.69,
+          "delivery": "2025-12-12T13:22:50.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Jast, Leuschke and Schamberger",
+          "rating": 3,
+          "price": 141.79,
+          "delivery": "2025-12-13T19:56:36.969Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "merchants": [
+        {
+          "name": "Bogan - Batz",
+          "rating": 4,
+          "price": 142.09,
+          "delivery": "2025-12-16T05:47:36.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Dach - VonRueden",
+          "rating": 2,
+          "price": 163.75,
+          "delivery": "2025-12-15T16:41:35.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "McKenzie Inc",
+          "rating": 4,
+          "price": 127.59,
+          "delivery": "2025-12-10T23:20:35.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Pagac LLC",
+          "rating": 1,
+          "price": 89.54,
+          "delivery": "2025-12-17T12:23:05.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Stokes, Nitzsche and Bartell",
+          "rating": 3,
+          "price": 163.15,
+          "delivery": "2025-12-13T08:34:40.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Goldner - Schamberger",
+          "rating": 1,
+          "price": 79.19,
+          "delivery": "2025-12-13T19:27:24.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Wyman Group",
+          "rating": 5,
+          "price": 149.09,
+          "delivery": "2025-12-11T00:29:22.969Z",
+          "currency": "KGS"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "merchants": [
+        {
+          "name": "Ortiz LLC",
+          "rating": 2,
+          "price": 65.19,
+          "delivery": "2025-12-13T08:55:19.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Jaskolski, Boyle and Hilpert",
+          "rating": 5,
+          "price": 46.75,
+          "delivery": "2025-12-17T04:45:08.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Kerluke and Sons",
+          "rating": 4,
+          "price": 30.05,
+          "delivery": "2025-12-16T04:05:05.969Z",
+          "currency": "KGS"
+        },
+        {
+          "name": "Stehr Inc",
+          "rating": 2,
+          "price": 77.09,
+          "delivery": "2025-12-12T16:33:44.969Z",
+          "currency": "USD"
+        },
+        {
+          "name": "Labadie - Frami",
+          "rating": 2,
+          "price": 128.22,
+          "delivery": "2025-12-13T05:51:30.969Z",
+          "currency": "RUB"
+        },
+        {
+          "name": "Sanford Group",
+          "rating": 2,
+          "price": 26.09,
+          "delivery": "2025-12-18T08:12:38.969Z",
+          "currency": "RUB"
+        }
+      ]
+    }
+  ]
 }

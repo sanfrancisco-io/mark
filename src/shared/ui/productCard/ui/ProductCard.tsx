@@ -8,8 +8,8 @@ import {
 import { RatingStars } from '@/components/ui/rating'
 import { getCurrency } from '@/shared/helpers/getCurrency'
 import { formatDate } from '@/shared/helpers/formatDate'
-import type { IProduct } from '@/modules/main/domain/interface/models'
 import { useProductCard } from '../service/useProductCard'
+import type { IProduct } from '@/modules/productList/domain/interface/models'
 
 interface IProductCard {
   product: IProduct

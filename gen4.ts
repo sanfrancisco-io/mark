@@ -6,6 +6,8 @@ import { faker } from '@faker-js/faker'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
+const currencies = ['RUB', 'USD', 'KGS']
+
 const getRange = (min: number, max: number) => {
   // min включительно, max не включительно
   return Math.floor(Math.random() * (max - min) + min)
@@ -37,17 +39,36 @@ const getRandomSpecs = () => {
   ]
 }
 
+function createMerchant() {
+  return {
+    name: faker.company.name(),
+    rating: getRange(1, 6),
+    price: parseFloat(faker.commerce.price({ min: 10, max: 200, dec: 2 })),
+    delivery: getRandomDate(new Date()),
+    currency: currencies[getRange(0, currencies.length)],
+  }
+}
+
 function generateProducts(count: number) {
-  const currencies = ['RUB', 'USD', 'KGS']
   const currentDate = new Date()
+
   const products = []
+  const specs = []
+  const merchants = []
 
   for (let i = 1; i <= count; i++) {
     const deliveryDate = getRandomDate(currentDate)
-    const specs = getRandomSpecs()
+    const randomSpecs = getRandomSpecs()
+    const randomMerchants = faker.helpers.multiple(createMerchant, {
+      count: getRange(5, 11),
+    })
+
+    merchants.push({ id: i, merchants: randomMerchants })
+
+    specs.push({ characteristics: randomSpecs, id: i })
 
     products.push({
-      id: faker.string.uuid(),
+      id: i,
       name: faker.commerce.productName(),
       description: faker.commerce.productDescription(),
       price: parseFloat(faker.commerce.price({ min: 10, max: 200, dec: 2 })),
@@ -56,15 +77,18 @@ function generateProducts(count: number) {
       stock: faker.number.int({ min: 0, max: 1000 }),
       rating: getRange(1, 6),
       deliveryDate: deliveryDate,
-      specs,
     })
   }
 
-  return products
+  return { products, specs, merchants }
 }
 
+const { products, specs, merchants } = generateProducts(50)
+
 const data = {
-  products: generateProducts(100),
+  products,
+  specs,
+  merchants,
 }
 
 fs.writeFileSync(path.join(__dirname, 'db.json'), JSON.stringify(data, null, 2))

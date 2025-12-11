@@ -5,13 +5,9 @@ export const ProductList = () => {
   const { isError, isLoading, loadingTriggerRef, products, isFetching } =
     useProductList()
 
-  if (isLoading) {
-    return <div>Loading products...</div>
-  }
+  if (isLoading) return <div>Loading products...</div>
 
-  if (isError) {
-    return <div>An error occurred while loading products.</div>
-  }
+  if (isError) return <div>An error occurred while loading products.</div>
 
   if (!products.length)
     return (
@@ -23,14 +19,15 @@ export const ProductList = () => {
 
   return (
     <div className='flex flex-col gap-4'>
-      <div className='grid grid-cols-4 gap-4'>
+      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4'>
         {products.map((item) => (
           <ProductCard key={item.id} product={item} />
         ))}
       </div>
+
       <div
         ref={loadingTriggerRef}
-        className='h-10 py-4 text-center text-[#666] w-full'
+        className='h-10 py-4 text-center text-[#666] w-full text-sm sm:text-base'
       >
         {isFetching ? 'Loading data...' : 'Scroll to view.'}
       </div>
