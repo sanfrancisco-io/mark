@@ -1,9 +1,9 @@
 import { ProductCard } from '@/shared/ui/productCard'
-import { useHome } from '../service/useHome'
+import { useProductList } from '../service/useProductsList'
 
-export const Home = () => {
+export const ProductList = () => {
   const { isError, isLoading, loadingTriggerRef, products, isFetching } =
-    useHome()
+    useProductList()
 
   if (isLoading) {
     return <div>Loading products...</div>

@@ -2,9 +2,8 @@ import { useState } from 'react'
 import { useGetProductsQuery } from '../domain/store/api'
 import { useIntersectionObserver } from '@/shared/hooks/useIntersctionObserver'
 
-export const useHome = () => {
+export const useProductList = () => {
   const [page, setPage] = useState(1)
-
 
   const {
     data: products = [],

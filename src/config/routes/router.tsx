@@ -1,8 +1,8 @@
 import { AppLayout } from '@/shared/ui/layouts'
-import { HomePage } from '@/modules/scenarios-constructor/ui/homePage/HomePage'
 import NotFoundPage from '@/modules/scenarios-constructor/ui/notFoundPage/NotFoundPage'
 import { createBrowserRouter } from 'react-router'
 import { ProductDetailsPage } from '@/modules/scenarios-constructor/ui/productDetailsPage/ProductDetailsPage'
+import { FeedPage } from '@/modules/scenarios-constructor/ui/feedPage/FeedPage'
 
 export const router = createBrowserRouter([
   {
@@ -12,7 +12,7 @@ export const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <HomePage />,
+        element: <FeedPage />,
       },
       {
         path: '/products/:id',

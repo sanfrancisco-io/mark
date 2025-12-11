@@ -2,7 +2,7 @@ import { basicApi } from '@/store/basicApi'
 import type { IGetProductParams, IProduct } from '../interface/models'
 import { TAGS } from '@/shared/constants/rtkTags'
 
-const homeApi = basicApi.injectEndpoints({
+const productListApi = basicApi.injectEndpoints({
   endpoints: (build) => ({
     getProducts: build.query<IProduct[], IGetProductParams>({
       query: ({ page, limit }) => ({
@@ -26,4 +26,4 @@ const homeApi = basicApi.injectEndpoints({
   overrideExisting: false,
 })
 
-export const { useGetProductsQuery } = homeApi
+export const { useGetProductsQuery } = productListApi
