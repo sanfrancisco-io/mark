@@ -1,3 +1,4 @@
 export const TAGS = {
-	Products: 'Products'
+	Products: 'Products',
+	Product: 'Product'
 }

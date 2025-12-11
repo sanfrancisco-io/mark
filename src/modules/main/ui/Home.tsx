@@ -6,18 +6,18 @@ export const Home = () => {
     useHome()
 
   if (isLoading) {
-    return <div>Загрузка товаров...</div>
+    return <div>Loading products...</div>
   }
 
   if (isError) {
-    return <div>Произошла ошибка при загрузке товаров.</div>
+    return <div>An error occurred while loading products.</div>
   }
 
   if (!products.length)
     return (
       <div className='text-center py-8 text-gray-500'>
-        <p>В данный момент товары отсутствуют.</p>
-        <p>Скоро здесь появятся новые поступления!</p>
+        <p>There are currently no products available.</p>
+        <p>New arrivals will be here soon!</p>
       </div>
     )
 
@@ -32,7 +32,7 @@ export const Home = () => {
         ref={loadingTriggerRef}
         className='h-10 py-4 text-center text-[#666] w-full'
       >
-        {isFetching ? 'Загружаем данные...' : 'Прокрутите для просмотра'}
+        {isFetching ? 'Loading data...' : 'Scroll to view.'}
       </div>
     </div>
   )

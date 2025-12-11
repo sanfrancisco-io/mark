@@ -25,6 +25,18 @@ const getRandomDate = (currentDate: Date) => {
   return deliveryDate
 }
 
+const getRandomSpecs = () => {
+  return [
+    { name: 'Brand', value: faker.company.name() },
+    { name: 'Material', value: faker.commerce.productMaterial() },
+    { name: 'Color', value: faker.color.human() },
+    { name: 'Origin Country', value: faker.location.country() },
+    { name: 'Weight', value: `${faker.number.int({ min: 100, max: 5000 })} g` },
+    { name: 'Warranty', value: `${getRange(1, 5)} years` },
+    { name: 'Model Year', value: getRange(2020, 2024).toString() },
+  ]
+}
+
 function generateProducts(count: number) {
   const currencies = ['RUB', 'USD', 'KGS']
   const currentDate = new Date()
@@ -32,6 +44,7 @@ function generateProducts(count: number) {
 
   for (let i = 1; i <= count; i++) {
     const deliveryDate = getRandomDate(currentDate)
+    const specs = getRandomSpecs()
 
     products.push({
       id: faker.string.uuid(),
@@ -43,6 +56,7 @@ function generateProducts(count: number) {
       stock: faker.number.int({ min: 0, max: 1000 }),
       rating: getRange(1, 6),
       deliveryDate: deliveryDate,
+      specs,
     })
   }
 
