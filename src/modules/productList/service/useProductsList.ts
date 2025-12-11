@@ -6,14 +6,17 @@ export const useProductList = () => {
   const [page, setPage] = useState(1)
 
   const {
-    data: products = [],
+    data: products,
     isLoading,
     isError,
     isFetching,
   } = useGetProductsQuery({ page, limit: 8 })
 
+  const hasMore = products?.hasMore ?? true
+  
+
   const loadMore = () => {
-    if (!isFetching) {
+    if (!isFetching && hasMore) {
       setPage((prev) => prev + 1)
     }
   }

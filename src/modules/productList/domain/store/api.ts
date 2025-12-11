@@ -1,20 +1,31 @@
 import { basicApi } from '@/store/basicApi'
-import type { IGetProductParams, IProduct } from '../interface/models'
+import type {
+  IGetProductParams,
+  IGetProductResponse,
+  IProduct,
+} from '../interface/models'
 import { TAGS } from '@/shared/constants/rtkTags'
 
 const productListApi = basicApi.injectEndpoints({
   endpoints: (build) => ({
-    getProducts: build.query<IProduct[], IGetProductParams>({
+    getProducts: build.query<IGetProductResponse, IGetProductParams>({
       query: ({ page, limit }) => ({
         url: '/products',
         params: { _page: page, _limit: limit },
       }),
+      transformResponse: (response: IProduct[]) => ({
+        products: response,
+        hasMore: response.length > 0,
+      }),
       serializeQueryArgs: ({ endpointName }) => endpointName,
-      merge: (currentCache, newItems, { arg }) => {
+      merge: (currentCache, newData, { arg }) => {
         if (arg.page === 1) {
-          return newItems
+          return newData
         }
-        currentCache.push(...newItems)
+        return {
+          products: [...currentCache.products, ...newData.products],
+          hasMore: newData.hasMore,
+        }
       },
       forceRefetch({ currentArg, previousArg }) {
         return currentArg !== previousArg

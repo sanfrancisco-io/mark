@@ -10,6 +10,11 @@ export interface IProduct {
   deliveryDate: string
 }
 
+export interface IGetProductResponse {
+  products: IProduct[]
+  hasMore: boolean
+}
+
 export interface IProductSpecsResponse {
   characteristics: IProductSpecs[]
   id: string
