@@ -124,7 +124,7 @@ export const ProductDetails = () => {
         </CardContent>
       </Card>
 
-      <Card className='ring-2 ring-blue-400 md:col-span-2 lg:col-span-1 h-[600px] flex flex-col'>
+      <Card className='ring-2 ring-blue-400 md:col-span-2 lg:col-span-1 h-[600px] flex flex-col overflow-hidden'>
         <CardHeader className='pb-2 shrink-0'>{renderHeader()}</CardHeader>
         <CardContent className='flex-1 overflow-y-auto py-2'>
           {renderContent()}

@@ -37,7 +37,7 @@ export const useProductDetails = () => {
     isLoading,
     specs,
     merchants,
-    handleChangeSort,
     sort,
+    handleChangeSort,
   }
 }
