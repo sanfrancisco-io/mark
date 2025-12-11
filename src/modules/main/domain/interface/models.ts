@@ -1,5 +1,5 @@
 export interface IProduct {
-  id: number
+  id: string
   name: string
   description: string
   price: number
@@ -7,11 +7,10 @@ export interface IProduct {
   imageUrl: string
   stock: number
   rating: number
-  deliveryDate:string;
+  deliveryDate: string
 }
 
-
 export interface IGetProductParams {
-  page: number;
+  page: number
   limit: number
 }

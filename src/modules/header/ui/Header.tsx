@@ -47,6 +47,7 @@ export const Header = ({ className }: IHeader) => {
       <div className='flex items-center gap-4'>
         <InputGroup>
           <InputGroupInput
+            onClick={() => console.log('blur')}
             value={query}
             onChange={handleChangeQuery}
             placeholder='Search...'

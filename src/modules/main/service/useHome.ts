@@ -5,6 +5,7 @@ import { useIntersectionObserver } from '@/shared/hooks/useIntersctionObserver'
 export const useHome = () => {
   const [page, setPage] = useState(1)
 
+
   const {
     data: products = [],
     isLoading,
@@ -25,6 +26,6 @@ export const useHome = () => {
     loadingTriggerRef,
     isError,
     isLoading,
-		isFetching
+    isFetching,
   }
 }

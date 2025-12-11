@@ -9,6 +9,7 @@ import { RatingStars } from '@/components/ui/rating'
 import { getCurrency } from '@/shared/helpers/getCurrency'
 import { formatDate } from '@/shared/helpers/formatDate'
 import type { IProduct } from '@/modules/main/domain/interface/models'
+import { useProductCard } from '../service/useProductCard'
 
 interface IProductCard {
   product: IProduct
@@ -28,6 +29,8 @@ export const ProductCard = ({ product }: IProductCard) => {
 
   const productCurrency = getCurrency(currency)
 
+  const { handleNavigate } = useProductCard()
+
   const renderContent = () => {
     return (
       <>
@@ -40,7 +43,7 @@ export const ProductCard = ({ product }: IProductCard) => {
         <p className='text-sm font-medium self-end'>
           in stock: <span className='font-semibold'>{stock}</span>
         </p>
-        <p>{formatDate(new Date(deliveryDate))}</p>
+        <p>Delivery: {formatDate(new Date(deliveryDate))}</p>
       </>
     )
   }
@@ -59,7 +62,10 @@ export const ProductCard = ({ product }: IProductCard) => {
   }
 
   return (
-    <Card className='grid cursor-pointer grid-rows-subgrid row-span-6 overflow-hidden border text-white bg-[#4B352A] shadow-sm p-4'>
+    <Card
+      onClick={() => handleNavigate(product.id)}
+      className='grid cursor-pointer grid-rows-subgrid row-span-6 overflow-hidden border text-white bg-[#4B352A] shadow-sm p-4'
+    >
       <img
         src={imageUrl}
         alt={name}
