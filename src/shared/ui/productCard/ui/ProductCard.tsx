@@ -23,7 +23,7 @@ export const ProductCard = ({ product }: IProductCard) => {
     price,
     rating,
     deliveryDate,
-    stock,
+    stockCount,
     currency,
   } = product
 
@@ -41,7 +41,7 @@ export const ProductCard = ({ product }: IProductCard) => {
           <RatingStars rating={rating} size={20} />
         </div>
         <p className='text-sm font-medium self-end'>
-          in stock: <span className='font-semibold'>{stock}</span>
+          in stock: <span className='font-semibold'>{stockCount}</span>
         </p>
         <p>Delivery: {formatDate(new Date(deliveryDate))}</p>
       </>
@@ -63,7 +63,7 @@ export const ProductCard = ({ product }: IProductCard) => {
 
   return (
     <Card
-      onClick={() => handleNavigate(product.id)}
+      onClick={() => handleNavigate(product.id.toString())}
       className='grid cursor-pointer grid-rows-subgrid row-span-6 overflow-hidden border text-white bg-[#4B352A] shadow-sm p-4'
     >
       <img

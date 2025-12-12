@@ -17,7 +17,7 @@ interface IHeader {
 
 export const Header = ({ className }: IHeader) => {
   const { query } = useAppSelector(HeaderStateSelector)
-  const { handleChangeQuery, resetQuery } = useHeader()
+  const { handleChangeQuery, resetQuery, handleSearchClick } = useHeader()
 
   return (
     <header
@@ -47,7 +47,7 @@ export const Header = ({ className }: IHeader) => {
       <div className='flex items-center gap-4'>
         <InputGroup>
           <InputGroupInput
-            onClick={() => console.log('blur')}
+            onClick={handleSearchClick}
             value={query}
             onChange={handleChangeQuery}
             placeholder='Search...'

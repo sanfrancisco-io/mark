@@ -13,7 +13,6 @@ export const useProductList = () => {
   } = useGetProductsQuery({ page, limit: 8 })
 
   const hasMore = products?.hasMore ?? true
-  
 
   const loadMore = () => {
     if (!isFetching && hasMore) {

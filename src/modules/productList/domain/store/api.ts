@@ -9,7 +9,7 @@ import { TAGS } from '@/shared/constants/rtkTags'
 const productListApi = basicApi.injectEndpoints({
   endpoints: (build) => ({
     getProducts: build.query<IGetProductResponse, IGetProductParams>({
-      query: ({ page, limit }) => ({
+      query: ({ page, limit}) => ({
         url: '/products',
         params: { _page: page, _limit: limit },
       }),

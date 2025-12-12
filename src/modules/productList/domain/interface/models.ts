@@ -1,23 +1,44 @@
+export type CurrencyCode = 'RUB' | 'USD' | 'KGS'
+
+export interface IProductAttribute {
+  name: string
+  value: string
+}
+
+export interface IMerchantOffer {
+  merchantId: string
+  merchantName: string
+  merchantRating: number
+  price: number
+  currency: CurrencyCode
+  estimatedDeliveryDate: Date
+}
+
 export interface IProduct {
-  id: string
+  id: number
   name: string
   description: string
   price: number
-  currency: string
+  currency: CurrencyCode
   imageUrl: string
-  stock: number
+  stockCount: number
   rating: number
-  deliveryDate: string
+  deliveryDate: Date
+}
+
+export interface IProductSpecification {
+  id: number
+  attributes: IProductAttribute[]
+}
+
+export interface ProductOffersList {
+  id: number
+  items: IMerchantOffer[]
 }
 
 export interface IGetProductResponse {
   products: IProduct[]
   hasMore: boolean
-}
-
-export interface IProductSpecsResponse {
-  characteristics: IProductSpecs[]
-  id: string
 }
 
 export interface IProductMerchantsResponse {
@@ -31,11 +52,6 @@ export interface IProductMerchants {
   delivery: string
   rating: number
   price: number
-}
-
-export interface IProductSpecs {
-  name: string
-  value: string
 }
 
 export interface IGetProductParams {

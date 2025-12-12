@@ -3,6 +3,7 @@ import NotFoundPage from '@/modules/scenarios-constructor/ui/notFoundPage/NotFou
 import { createBrowserRouter } from 'react-router'
 import { ProductDetailsPage } from '@/modules/scenarios-constructor/ui/productDetailsPage/ProductDetailsPage'
 import { FeedPage } from '@/modules/scenarios-constructor/ui/feedPage/FeedPage'
+import { SearchPage } from '@/modules/scenarios-constructor/ui/searchPage/SearchPage'
 
 export const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ export const router = createBrowserRouter([
       {
         path: '/products/:id',
         element: <ProductDetailsPage />,
+      },
+      {
+        path: '/products/search',
+        element: <SearchPage />,
       },
     ],
   },

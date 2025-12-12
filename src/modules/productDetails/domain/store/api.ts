@@ -6,8 +6,8 @@ import type {
 } from '../interface/models'
 import type {
   IProduct,
-  IProductMerchantsResponse,
-  IProductSpecsResponse,
+  IProductSpecification,
+  ProductOffersList,
 } from '@/modules/productList/domain/interface/models'
 
 const productDetailsApi = basicApi.injectEndpoints({
@@ -18,20 +18,20 @@ const productDetailsApi = basicApi.injectEndpoints({
       }),
       providesTags: [TAGS.Product],
     }),
-    getProductSpecsById: build.query<
-      IProductSpecsResponse,
+    getProductSpecificationsById: build.query<
+      IProductSpecification,
       IGetProductByIdParams
     >({
       query: ({ id }) => ({
-        url: `/specs/${id}`,
+        url: `/specifications/${id}`,
       }),
     }),
     getProductMerchantsById: build.query<
-      IProductMerchantsResponse,
+      ProductOffersList,
       IGetProductMerchantsByIdParams
     >({
       query: ({ id }) => ({
-        url: `/merchants/${id}`,
+        url: `/offers/${id}`,
       }),
     }),
   }),
@@ -41,6 +41,6 @@ const productDetailsApi = basicApi.injectEndpoints({
 
 export const {
   useGetProductByIdQuery,
-  useGetProductSpecsByIdQuery,
+  useGetProductSpecificationsByIdQuery,
   useGetProductMerchantsByIdQuery,
 } = productDetailsApi

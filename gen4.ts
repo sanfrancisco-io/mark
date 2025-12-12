@@ -6,89 +6,98 @@ import { faker } from '@faker-js/faker'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const currencies = ['RUB', 'USD', 'KGS']
+const PRODUCT_COUNT = 50
+const STORE_TYPES = ['Digital', 'Express', 'Point', 'Zone', 'Hub']
 
-const getRange = (min: number, max: number) => {
-  // min включительно, max не включительно
+const getRandomInt = (min: number, max: number) => {
   return Math.floor(Math.random() * (max - min) + min)
 }
 
-const getRandomDate = (currentDate: Date) => {
-  const daysToAdd = getRange(0, 8)
-  const randomHours = getRange(0, 24)
-  const randomMins = getRange(0, 60)
-  const randomSecs = getRange(0, 60)
+const generateDeliveryDate = (baseDate: Date) => {
+  const daysToAdd = getRandomInt(0, 8)
+  const deliveryDate = new Date(baseDate)
 
-  const deliveryDate = new Date(currentDate)
-
-  deliveryDate.setDate(currentDate.getDate() + daysToAdd)
-  deliveryDate.setHours(randomHours, randomMins, randomSecs)
+  deliveryDate.setDate(baseDate.getDate() + daysToAdd)
+  deliveryDate.setHours(
+    getRandomInt(0, 24),
+    getRandomInt(0, 60),
+    getRandomInt(0, 60),
+  )
 
   return deliveryDate
 }
 
-const getRandomSpecs = () => {
+const generateProductAttributes = () => {
   return [
     { name: 'Brand', value: faker.company.name() },
     { name: 'Material', value: faker.commerce.productMaterial() },
     { name: 'Color', value: faker.color.human() },
     { name: 'Origin Country', value: faker.location.country() },
     { name: 'Weight', value: `${faker.number.int({ min: 100, max: 5000 })} g` },
-    { name: 'Warranty', value: `${getRange(1, 5)} years` },
-    { name: 'Model Year', value: getRange(2020, 2024).toString() },
+    { name: 'Warranty', value: `${getRandomInt(1, 5)} years` },
+    { name: 'Model Year', value: getRandomInt(2020, 2024).toString() },
   ]
 }
 
-function createMerchant() {
+function generateMerchantOffer() {
+  const randomType = faker.helpers.arrayElement(STORE_TYPES)
+  const name = faker.person.firstName()
+
   return {
-    name: faker.company.name(),
-    rating: getRange(1, 6),
+    merchantId: faker.string.uuid(),
+    merchantName: `${name} ${randomType}`,
+    merchantRating: getRandomInt(1, 6),
     price: parseFloat(faker.commerce.price({ min: 10, max: 200, dec: 2 })),
-    delivery: getRandomDate(new Date()),
-    currency: currencies[getRange(0, currencies.length)],
+    currency: 'USD',
+    estimatedDeliveryDate: generateDeliveryDate(new Date()),
   }
 }
 
-function generateProducts(count: number) {
-  const currentDate = new Date()
+function generateDatabaseData(count: number) {
+  const today = new Date()
 
   const products = []
-  const specs = []
-  const merchants = []
+  const specifications = []
+  const offers = []
 
-  for (let i = 1; i <= count; i++) {
-    const deliveryDate = getRandomDate(currentDate)
-    const randomSpecs = getRandomSpecs()
-    const randomMerchants = faker.helpers.multiple(createMerchant, {
-      count: getRange(5, 11),
+  for (let id = 1; id <= count; id++) {
+    const attributes = generateProductAttributes()
+
+    const productOffers = faker.helpers.multiple(generateMerchantOffer, {
+      count: getRandomInt(5, 11),
     })
 
-    merchants.push({ id: i, merchants: randomMerchants })
-
-    specs.push({ characteristics: randomSpecs, id: i })
-
     products.push({
-      id: i,
+      id: id,
       name: faker.commerce.productName(),
       description: faker.commerce.productDescription(),
       price: parseFloat(faker.commerce.price({ min: 10, max: 200, dec: 2 })),
-      currency: currencies[getRange(0, currencies.length)],
+      currency: 'USD',
       imageUrl: faker.image.url({ width: 300, height: 200 }),
-      stock: faker.number.int({ min: 0, max: 1000 }),
-      rating: getRange(1, 6),
-      deliveryDate: deliveryDate,
+      stockCount: faker.number.int({ min: 0, max: 1000 }),
+      rating: getRandomInt(1, 6),
+      deliveryDate: generateDeliveryDate(today),
+    })
+
+    specifications.push({
+      id: id,
+      attributes: attributes,
+    })
+
+    offers.push({
+      id: id,
+      items: productOffers,
     })
   }
 
-  return { products, specs, merchants }
+  return { products, specifications, offers }
 }
 
-const { products, specs, merchants } = generateProducts(50)
+const dbData = generateDatabaseData(PRODUCT_COUNT)
 
-const data = {
-  products,
-  specs,
-  merchants,
-}
+fs.writeFileSync(
+  path.join(__dirname, 'db.json'),
+  JSON.stringify(dbData, null, 2),
+)
 
-fs.writeFileSync(path.join(__dirname, 'db.json'), JSON.stringify(data, null, 2))
+console.log('Database generated successfully!')
